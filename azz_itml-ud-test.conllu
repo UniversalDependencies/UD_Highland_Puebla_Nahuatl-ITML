@@ -256,7 +256,7 @@
 3	se	se	NUM	_	_	6	reparandum	_	_
 4	ki...	ki	X	_	_	7	reparandum	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 8	ya	ya	ADV	_	_	11	mark	_	_
 9	que	que	SCONJ	_	_	8	fixed	_	_
@@ -348,7 +348,7 @@
 39	,	,	PUNCT	_	_	38	punct	_	_
 40	ox	ox	SCONJ	_	_	41	mark	_	_
 41	kwali	kuali	ADJ	_	Number[subj]=Sing|Person[subj]=3	37	conj	_	_
-42	se	se	NUM	_	_	43	nsubj	_	_
+42	se	se	PRON	_	_	43	nsubj	_	_
 43	kikwi	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	41	csubj	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	46	punct	_	_
 45	kani	kani	ADV	_	_	46	advmod	_	_
@@ -663,7 +663,7 @@
 10	milaj	milaj	NOUN	_	Case=Abs	9	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	uelis	hueli	AUX	_	Tense=Fut	14	aux	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kinitas	ita	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	_	_
 15	miyakej	miak	DET	_	Number=Plur	16	det	_	_
 16	sitalimej	sitalin	NOUN	_	Number=Plur	14	obj	_	_
@@ -870,7 +870,7 @@
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	teyin	tein	PRON	_	_	10	nmod	_	_
 10	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	12	obl	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	tatotonia	totonia	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	acl:relcl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	2	punct	_	_
 14	kitekitiltiya	tekitiltia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
@@ -911,7 +911,7 @@
 7	teyin	tein	PRON	_	_	11	obj	_	_
 8	amo	amo	ADV	_	_	11	advmod	_	_
 9	ueli	hueli	AUX	_	_	11	aux	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	acl:relcl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	kemej	kemej	ADV	_	_	15	dep	_	_
@@ -934,7 +934,7 @@
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	teyin	tein	PRON	_	_	7	obj	_	_
 5	ueli	hueli	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	acl:relcl	_	_
 8	kemej	kemej	ADP	_	_	9	case	_	_
 9	itapaluan	tapal	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
@@ -1052,7 +1052,7 @@
 # text[spa] = Tomar la mar
 # labels = complete
 1	Keniuj	keni	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	Tayis	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	0	root	_	_
 4	Ueyistajat	ueyistajat	NOUN	_	Case=Abs	3	obj	_	_
 
@@ -1106,7 +1106,7 @@
 # text[gloss] = Cuando uno lo coloca en grandes plásticos y éstos, que queden dentro de algo donde calienta como un invernadero, puede hacerse el agua.
 # labels = complete-tree
 1	Keman	keman	ADV	_	_	3	mark	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kisentiliya	sentilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	20	advcl	_	_
 4	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 5	uejueyi	huehuei	ADJ	_	_	6	amod	_	_
@@ -1176,7 +1176,7 @@
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	uan	huan	CCONJ	_	_	16	cc	_	_
 14	uelis	hueli	AUX	_	Tense=Fut	16	aux	_	_
-15	se	se	NUM	_	_	16	nsubj	_	_
+15	se	se	PRON	_	_	16	nsubj	_	_
 16	kiuikas	huika	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
 18	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	16	obl	_	_
@@ -1185,7 +1185,7 @@
 21	ne	ne	DET	_	_	22	det	_	_
 22	istajat	istajat	NOUN	_	Case=Abs	16	obj	_	_
 23	kanpa	kampa	ADV	_	PronType=Rel	25	advmod	_	_
-24	se	se	NUM	_	_	25	nsubj	_	_
+24	se	se	PRON	_	_	25	nsubj	_	_
 25	kichipauas	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	22	acl:relcl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -1204,7 +1204,7 @@
 9	,	,	PUNCT	_	_	6	punct	_	_
 10	maj	ma	AUX	_	_	13	aux	_	_
 11	ueli	hueli	AUX	_	_	13	aux	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kitas	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	1	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	ijka	ka	NOUN	_	Number[subj]=Sing	13	obl	_	_
@@ -1373,7 +1373,7 @@
 9	moixyejyekoua	ixyejyekohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	7	advcl	_	Reflexive[obj]=Yes
 10	keniuj	keni	ADV	_	_	13	advmod	_	_
 11	uelis	hueli	AUX	_	Tense=Fut	13	aux	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	yas	yohui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	9	ccomp	_	_
 14	sitalkopa	sitalkopa	ADV	_	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	_
@@ -1477,13 +1477,13 @@
 5	uan	huan	CCONJ	_	_	9	cc	_	_
 6	ijkon	ijkon	ADV	_	_	9	advmod	_	_
 7	kachi	kachi	ADV	_	_	9	advmod	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kiajsikamatis	ajsikamati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	conj	_	_
 10	keniuj	keni	ADV	_	_	11	advmod	_	_
 11	chichiujtok	chijchihua	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	9	ccomp	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	uelis	hueli	AUX	_	Tense=Fut	15	aux	_	_
-14	se	se	NUM	_	_	15	nsubj	_	_
+14	se	se	PRON	_	_	15	nsubj	_	_
 15	kinemilis	nemilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	parataxis	_	_
 16	se	se	DET	_	_	17	det	_	_
 17	askat	askat	NOUN	_	Case=Abs	15	obj	_	_
@@ -1495,7 +1495,7 @@
 23	uan	huan	CCONJ	_	_	27	cc	_	_
 24	in	in	DET	_	_	25	det	_	_
 25	taltikpak	taltikpak	NOUN	_	Case=Abs	27	obj	_	_
-26	se	se	NUM	_	_	27	nsubj	_	_
+26	se	se	PRON	_	_	27	nsubj	_	_
 27	kitsikitsintiltiya	tsikitsintiltia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	19	conj	_	_
 28	uan	huan	CCONJ	_	_	31	cc	_	_
 29	ijkon	ijkon	ADV	_	_	31	advmod	_	_
@@ -1593,7 +1593,7 @@
 # text[gloss] = Puede uno reunir muchas moléculas que crian un nano-robot, y con esta máquina puede uno conocer cuales células se enferman, éstos _ _ en los ratones.
 # labels = incorporation
 1	Ueli	hueli	AUX	_	_	3	aux	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kinsentiliya	sentilia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	miyak	miak	DET	_	_	5	det	_	_
 5	moléculas	molécula	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
@@ -1607,7 +1607,7 @@
 13	nijin	nijin	DET	_	_	14	det	_	_
 14	teposmej	tepos	NOUN	_	Number=Plur	12	nmod	_	_
 15	uelis	hueli	AUX	_	Tense=Fut	17	aux	_	_
-16	se	se	NUM	_	_	17	nsubj	_	_
+16	se	se	PRON	_	_	17	nsubj	_	_
 17	kinixmatis	ixmati	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	conj	_	_
 18	katin	katin	DET	_	_	19	det	_	_
 19	células	célula	NOUN	_	Gender=Fem|Number=Plur	20	nsubj	_	_
@@ -1660,7 +1660,7 @@
 10	,	,	PUNCT	_	_	14	punct	_	_
 11	uelis	hueli	AUX	_	Tense=Fut	14	aux	_	_
 12	no	no	ADV	_	_	14	advmod	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kinemilis	nemilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	2	parataxis	_	_
 15	ke	ke	SCONJ	_	_	17	mark	_	_
 16	tayijtik	tayijtik	ADV	_	_	17	advmod	_	_
@@ -1677,7 +1677,7 @@
 27	;	;	PUNCT	_	_	31	punct	_	_
 28	axkan	axkan	ADV	_	_	31	advmod	_	_
 29	maj	ma	AUX	_	_	31	aux	_	_
-30	se	se	NUM	_	_	31	nsubj	_	_
+30	se	se	PRON	_	_	31	nsubj	_	_
 31	kikajkaua	kajkahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -1685,13 +1685,13 @@
 # text = Maj se kinemili ke nochi toponi ijkuak se kikajkaua.
 # text[spa] = Imaginemos que podemos comprimir una montaña al tamaño de una hormiga, e incluso más, que en esa misma compresión también metemos al Sol, a la Vía láctea y a todas las galaxias.
 1	Maj	ma	AUX	_	_	3	aux	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kinemili	nemili	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	ke	ke	SCONJ	_	_	6	mark	_	_
 5	nochi	nochi	PRON	_	_	6	nsubj	_	_
 6	toponi	toponi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	ccomp	_	_
 7	ijkuak	ijkuak	SCONJ	_	_	9	mark	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikajkaua	kajkahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	advcl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -1730,7 +1730,7 @@
 8	yejua	yehua	PRON	_	Number=Sing|Person=3|PronType=Prs	2	parataxis	_	_
 9	nijin	nijin	PRON	_	_	10	nmod	_	_
 10	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	12	obl	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kinextiya	nextia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	csubj	_	_
 13	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	12	obl	_	_
 14	ne	ne	DET	_	_	15	det	_	_
@@ -2091,11 +2091,11 @@
 # text[spa] = Sirve para comerse, se tuesta en el comal.
 # labels = sentence
 1	Kuali	kuali	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	maj	ma	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiteuatsa	tehuatsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 8	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 9	komal	komal	NOUN	_	Case=Abs	8	nmod	_	SpaceAfter=No
@@ -2122,7 +2122,7 @@
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	por	por	ADP	_	_	18	mark	_	_
 16	in	in	DET	_	_	15	fixed	_	_
-17	se	se	NUM	_	_	18	nsubj	_	_
+17	se	se	PRON	_	_	18	nsubj	_	_
 18	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	13	advcl	_	_
 19	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	18	obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	18	punct	_	_
@@ -2219,16 +2219,16 @@
 # text[spa] = El fruto se come cuando ya está maduro, se corta y así ya se come.
 # labels = sentence
 1	Itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	de	de	ADP	_	_	5	mark	_	_
 5	oksik	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	3	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kiteki	teki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 9	uan	huan	CCONJ	_	_	12	cc	_	_
 10	iujki	iuki	ADV	_	_	12	advmod	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	conj	_	_
 13	ya	ya	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	_
@@ -2238,7 +2238,7 @@
 # text[spa] = Cuando uno lo limpia, ya está floreando.
 # labels = sentence
 1	Ijuak	ijkuak	SCONJ	_	_	3	mark	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimeua	mehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	advcl	_	_
 4	xochiyojtok	xochiyohua	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -2273,7 +2273,7 @@
 # text = Se kitoka majmakuil oso najnaui taoltsitsin uan kemaj se kitajtanilia taltikpak uan todios, uan kuali mochiuas.
 # text[spa] = Se siembran de a cinco a cuatro maicitos y luego se le pide a la Tierra y a nuestro Dios y se da muy bien.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	majmakuil	majmakuil	NUM	_	_	6	nummod	_	Reduplicated=Yes
 4	oso	oso	CCONJ	_	_	5	cc	_	_
@@ -2281,7 +2281,7 @@
 6	taoltsitsin	taol	NOUN	_	Degree=Dim|Number=Plur	2	obj	_	_
 7	uan	huan	CCONJ	_	_	10	cc	_	_
 8	kemaj	kemaj	INTJ	_	_	10	discourse	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kitajtanilia	tajtanilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	Number[iobj]=Sing|Person[iobj]=3
 11	taltikpak	taltikpak	NOUN	_	Case=Abs	10	iobj	_	_
 12	uan	huan	CCONJ	_	_	13	cc	_	_
@@ -2319,7 +2319,7 @@
 # text = Se kikua in itakka, in semi uelik.
 # text[spa] = Su fruto se come, es muy sabroso.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
@@ -2493,7 +2493,7 @@
 # text[spa] = No se limpia. Cuando chapean lo cortan, queda el tronquito y vuelve a retoñar.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	ijuak	ijhuak	SCONJ	_	_	6	mark	_	_
@@ -2580,7 +2580,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	tekekeloua	kekelohua	VERB	_	Animacy[obj]=Hum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 8	komo	komo	ADV	_	_	10	mark	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	moojsak	ojsa	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	7	advcl	_	Reflexive[obj]=Yes
 11	ichokilo	chokilo	NOUN	_	Number[psor]=Sing|Person[psor]=3	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -2668,7 +2668,7 @@
 # text = se kimana ika komit uan at, maj oksi uan se kikua ya, komo semiuejueyi maj se kitejteki para se kimanas.
 # text[spa] = se hierve en una olla con agua. Cuando ya está cocido se come. Si es muy grande, hay que cortarlo en pedazos para hervirlo.
 # labels = fragment
-1	se	se	NUM	_	_	2	nsubj	_	_
+1	se	se	PRON	_	_	2	nsubj	_	_
 2	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	2	obl	_	_
 4	komit	komit	NOUN	_	Case=Abs	3	nmod	_	_
@@ -2678,7 +2678,7 @@
 8	maj	ma	AUX	_	_	9	aux	_	_
 9	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	parataxis	_	_
 10	uan	huan	CCONJ	_	_	12	cc	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	conj	_	_
 13	ya	ya	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
@@ -2687,10 +2687,10 @@
 16	semi	semi	ADV	_	_	17	advmod	_	_
 17	uejueyi	huejueyi	ADJ	_	Number[subj]=Sing|Person[subj]=3	20	advcl	_	_
 18	maj	ma	AUX	_	_	20	aux	_	_
-19	se	se	NUM	_	_	20	nsubj	_	_
+19	se	se	PRON	_	_	20	nsubj	_	_
 20	kitejteki	tejteki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 21	para	para	SCONJ	_	_	23	mark	_	_
-22	se	se	NUM	_	_	23	nsubj	_	_
+22	se	se	PRON	_	_	23	nsubj	_	_
 23	kimanas	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	20	advcl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -2773,14 +2773,14 @@
 # text = Se kikua, se kiixka uan iuan se kikua emol oso chiltamoltal iuan tomat.
 # text[spa] = Se come, se tuesta y se come con frijoles o en salsa con jitomate.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kiixka	ixka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 6	uan	huan	CCONJ	_	_	9	cc	_	_
 7	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	conj	_	_
 10	emol	emol	NOUN	_	Case=Abs	7	nmod	_	_
 11	oso	oso	CCONJ	_	_	12	cc	_	_
@@ -2821,7 +2821,7 @@
 17	kasá	kasa	ADV	_	_	16	advmod	_	_
 18	uan	huan	CCONJ	_	_	25	cc	_	_
 19	komo	komo	ADV	_	_	21	mark	_	_
-20	se	se	NUM	_	_	21	nsubj	_	_
+20	se	se	PRON	_	_	21	nsubj	_	_
 21	tameuj	mehua	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	25	advcl	_	_
 22	ompa	ompa	ADV	_	_	25	advmod	_	_
 23	ya	ya	ADV	_	_	25	advmod	_	_
@@ -2922,7 +2922,7 @@
 # labels = sentence
 1	Tejuan	tehuan	PRON	_	Case=Abs|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	tikpiyayaj	piya	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran	0	root	_	_
-3	se	se	NUM	_	_	2	obj	_	_
+3	se	se	PRON	_	_	2	obj	_	_
 4	pesmaapan	Pesmaapan	PROPN	_	_	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	tsikitsin	tsiki	ADJ	_	Degree=Dim|Number[subj]=Sing|Person[subj]=3	2	conj	_	_
@@ -2985,7 +2985,7 @@
 # labels = sentence
 1	No	no	ADV	_	_	2	advmod	_	_
 2	kipiyayaj	piya	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	_
-3	se	se	NUM	_	_	2	obj	_	_
+3	se	se	PRON	_	_	2	obj	_	_
 4	ne	ne	ADV	_	_	2	advmod	_	_
 5	Ataujtsalan	Ataujtsalan	PROPN	_	_	4	appos	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
@@ -3050,18 +3050,18 @@
 7	se	se	PRON	_	_	8	nmod	_	_
 8	itsontekoj	tsontekoj	NOUN	_	Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
 9	maj	ma	AUX	_	_	11	aux	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kiteki	teki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 12	kajkanauak	kajkanahuak	ADJ	_	_	11	advmod	_	_
 13	uan	huan	CCONJ	_	_	16	cc	_	_
 14	maj	ma	AUX	_	_	16	aux	_	_
-15	se	se	NUM	_	_	16	nsubj	_	_
+15	se	se	PRON	_	_	16	nsubj	_	_
 16	motalili	talilia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	11	conj	_	Reflexive[iobj]=Yes
 17	se	se	NUM	_	_	18	nmod	_	_
 18	ikuajkuanakastaj	kuajkuanakastaj	NOUN	_	Number[psor]=Sing|Person[psor]=3	16	obl	_	_
 19	uan	huan	CCONJ	_	_	22	cc	_	_
 20	maj	ma	AUX	_	_	22	aux	_	_
-21	se	se	NUM	_	_	22	nsubj	_	_
+21	se	se	PRON	_	_	22	nsubj	_	_
 22	mokuapiki	kuapi	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran	11	conj	_	Reflexive[obj]=Yes
 23	ya	ya	ADV	_	_	22	advmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
@@ -3139,12 +3139,12 @@
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:88
 # text = Se kichipaua komo kajfentaj, se kimeua sejsé xiuit,
 # text[spa] = Se limpia sí está en el cafetal, se chapea cada año.
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	komo	komo	ADV	_	_	4	mark	_	_
 4	kajfentaj	kafentaj	NOUN	_	Case=Abs	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kimeua	mehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 8	sejsé	sejse	DET	_	_	9	det	_	_
 9	xiuit	xihuit	NOUN	_	Case=Abs	7	obl	_	SpaceAfter=No
@@ -3206,10 +3206,10 @@
 1	Ijuak	ijhuak	SCONJ	_	_	2	mark	_	_
 2	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	advcl	_	_
 3	ya	ya	ADV	_	_	5	advmod	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kitapana	tapana	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 6	uan	huan	CCONJ	_	_	8	cc	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	conj	_	_
 9	kemej	kemej	ADP	_	_	10	case	_	_
 10	xantiaj	xantiaj	NOUN	_	Case=Abs	8	obl	_	SpaceAfter=No
@@ -3243,7 +3243,7 @@
 # labels = sentence
 1	Kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 2	para	para	SCONJ	_	_	4	mark	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kiajuiyalis	ajuiyalia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	1	advcl	_	_
 5	tapalol	tapalol	NOUN	_	Case=Abs	4	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -3287,7 +3287,7 @@
 # text = Se kitoka.
 # text[spa] = Se siembra.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3323,7 +3323,7 @@
 # labels = sentence
 1	In	in	PRON	_	_	4	obj	_	_
 2	amo	amo	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	Reflexive[obj]=Yes
@@ -3449,7 +3449,7 @@
 1	In	in	DET	_	_	2	det	_	_
 2	uelik	huelik	ADJ	_	Number[subj]=Sing|Person[subj]=3	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -3483,15 +3483,15 @@
 # text[spa] = También sirve para dar sabor a las albóndigas, al chorizo y a la sopa.
 # labels = sentence
 1	No	no	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikui	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kiueliltia	hueliltia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	acl:relcl	_	_
 7	in	in	DET	_	_	8	det	_	_
 8	albóndigas	albóndiga	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	_
 9	tein	tein	PRON	_	_	11	obj	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kichijchiua	chijchihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	acl:relcl	_	_
 12	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
 13	nakat	nakat	NOUN	_	Case=Abs	12	nmod	_	SpaceAfter=No
@@ -3537,7 +3537,7 @@
 # labels = sentence
 1	Uan	huan	CCONJ	_	_	4	cc	_	_
 2	no	no	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -3685,7 +3685,7 @@
 1	Sayoj	sayoj	ADV	_	_	2	advmod	_	_
 2	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 3	para	para	SCONJ	_	_	5	mark	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kikuas	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	2	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	amo	amo	ADV	_	_	8	advmod	_	_
@@ -3791,7 +3791,7 @@
 # text[spa] = No se siembra, brota solo.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	Reflexive[obj]=Yes
@@ -3813,7 +3813,7 @@
 # text[spa] = Se siembra.
 # labels = sentence
 1	In	in	PRON	_	_	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -3828,7 +3828,7 @@
 # labels = sentence
 1	Komo	komo	ADV	_	_	4	mark	_	_
 2	miak	miak	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	advcl	_	_
 5	tekuilia	kuilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 6	in	in	DET	_	_	7	det	_	_
@@ -3894,12 +3894,12 @@
 3	para	para	ADP	_	_	4	case	_	_
 4	reuma	reuma	NOUN	_	Case=Abs	2	obl	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiatema	atema	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 8	in	in	DET	_	_	9	det	_	_
 9	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	_
 10	uan	huan	CCONJ	_	_	12	cc	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	motalilia	talilia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	Reflexive[iobj]=Yes|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3910,11 +3910,11 @@
 # labels = sentence
 1	No	no	ADV	_	_	2	advmod	_	_
 2	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kichiua	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	csubj	_	_
 5	papayajat	papayajat	NOUN	_	Case=Abs	4	obj	_	_
 6	para	para	SCONJ	_	_	8	mark	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	tayis	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	4	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3935,7 +3935,7 @@
 1	In	in	DET	_	_	2	dep	_	_
 2	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
 3	kampa	kampa	ADV	_	PronType=Rel	5	advmod	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	_
 6	etsin	et	NOUN	_	Degree=Dim	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
@@ -3944,7 +3944,7 @@
 # text = Septiembre se kiichkua ya
 # text[spa] = En septiembre ya se cosecha.
 1	Septiembre	septiembre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kiichkua	ichkua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	ya	ya	ADV	_	_	3	advmod	_	_
 
@@ -3990,14 +3990,14 @@
 # text = Se kikua in itakka se kikokototsa uan se kikua.
 # text[spa] = El fruto se corta en pedazos y se come.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikokototsa	kokototsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 7	uan	huan	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -4029,7 +4029,7 @@
 # text[spa] = Lo ve uno con más flor en mayo.
 # labels = sentence
 1	Semi	semi	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kiita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	miak	miak	ADV	_	_	5	advmod	_	_
 5	xochiyoua	xochiyohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	3	ccomp	_	_
@@ -4063,11 +4063,11 @@
 # text[spa] = Su fruto se come y sirve para atole.
 # labels = sentence
 1	Itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	uan	huan	CCONJ	_	_	7	cc	_	_
 5	para	para	SCONJ	_	_	7	mark	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	_
 8	atol	atol	NOUN	_	Case=Abs	7	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
@@ -4084,7 +4084,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	solo	sólo	ADV	_	_	10	advmod	_	_
 8	para	para	SCONJ	_	_	10	mark	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	semi	semi	ADV	_	_	13	advmod	_	_
@@ -4229,7 +4229,7 @@
 10	,	,	PUNCT	_	_	14	punct	_	_
 11	sayoj	sayoj	ADV	_	_	14	advmod	_	_
 12	maj	ma	AUX	_	_	14	aux	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kitepeua	tepehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	_	_
 15	in	in	DET	_	_	16	det	_	_
 16	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	14	obj	_	SpaceAfter=No
@@ -4267,16 +4267,16 @@
 # text = Se kikui in nanakat uan ika se kixakualoua kampa se xiyoti.
 # text[spa] = Se agarra el hongo y se restriega en el jiote.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikui	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	nanakat	nanakat	NOUN	_	Case=Abs	2	obj	_	_
 5	uan	huan	CCONJ	_	_	8	cc	_	_
 6	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kixakualoua	xakualohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 9	kampa	kampa	ADV	_	PronType=Rel	11	advmod	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	xiyoti	xiyoti	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	8	advcl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -4362,7 +4362,7 @@
 3	pajti	pajti	NOUN	_	Case=Abs|Number[subj]=Sing|Person[subj]=3	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	sayoj	sayoj	ADV	_	_	7	advmod	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -4400,7 +4400,7 @@
 7	sesek	sesek	ADJ	_	Number[subj]=Sing|Person[subj]=3	4	parataxis	_	SpaceAfter=No
 8	;	;	PUNCT	_	_	11	punct	_	_
 9	ijuak	ijhuak	SCONJ	_	_	11	mark	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	14	advcl	_	_
 12	¡	¡	PUNCT	_	_	14	punct	_	SpaceAfter=No
 13	uta	uta	INTJ	_	_	14	discourse	_	_
@@ -4409,7 +4409,7 @@
 16	,	,	PUNCT	_	_	20	punct	_	_
 17	se	se	NUM	_	_	18	nsubj	_	_
 18	contento	contento	ADJ	_	Gender=Masc|Number=Sing	20	dep	_	_
-19	se	se	NUM	_	_	20	nsubj	_	_
+19	se	se	PRON	_	_	20	nsubj	_	_
 20	mokaua	kahua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	Reflexive[obj]=Yes|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -4427,7 +4427,7 @@
 3	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	mayo	mayo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	_	_
 8	ya	ya	ADV	_	_	7	advmod	_	_
 9	in	in	DET	_	_	10	det	_	_
@@ -4451,7 +4451,7 @@
 # text = Se kitoka najnaui et, seki kitokaj enero, febrero, sekin marzo oso abril; komo milaj hasta tamimilmeuaj.
 # text[spa] = Se siembran de a cuatro frijolitos. Algunos lo siembran en enero, febrero. Otros en marzo o abril. Si es en la milpa lo siembran después de la labra.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	najnaui	najnahui	NUM	_	_	4	nummod	_	Reduplicated=Yes
 4	et	et	NOUN	_	Case=Abs	2	obj	_	SpaceAfter=No
@@ -4542,7 +4542,7 @@
 7	in	in	DET	_	_	8	det	_	_
 8	pilimej	pili	NOUN	_	Number=Plur	6	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kimpoxpepechouilia	poxpepechohuilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	Number[iobj]=Plur|Person[iobj]=3
 12	in	in	DET	_	_	13	det	_	_
 13	pilimej	pili	NOUN	_	Number=Plur	11	iobj	_	_
@@ -4554,16 +4554,16 @@
 # text = Se kikua itakka, pijpitsaktsin se kitejteki, achto se kipaxijxima ika machete.
 # text[spa] = Su fruto se come, se corta delgadito, primero se le quita la cáscara con machete.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	pijpitsaktsin	pijpitsaktsin	ADJ	_	_	7	xcomp	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitejteki	tejteki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	achto	achto	ADV	_	_	11	advmod	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kipaxijxima	xijxima	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	Incorporated=Pan
 12	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
 13	machete	machete	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
@@ -4592,7 +4592,7 @@
 # text[spa] = Hay que limpiarlo.
 # labels = sentence
 1	Moneki	neki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitachipauis	chipahuia	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	1	ccomp	_	Number[iobj]=Sing|Person[iobj]=3|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -4626,7 +4626,7 @@
 3	para	para	ADP	_	_	4	case	_	_
 4	nexuitil	nexuitil	NOUN	_	Case=Abs	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitsoyonia	tsoyonia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 8	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 9	tiltikxalkuouit	tiltikxalkuohuit	NOUN	_	Case=Abs	8	nmod	_	_
@@ -4641,7 +4641,7 @@
 18	saj	saj	ADV	_	_	7	advmod	_	_
 19	uan	huan	CCONJ	_	_	22	cc	_	_
 20	kemaj	kemaj	INTJ	_	_	22	discourse	_	_
-21	se	se	NUM	_	_	22	nsubj	_	_
+21	se	se	PRON	_	_	22	nsubj	_	_
 22	kininpoxtalilia	poxtalilia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	Number[iobj]=Plur|Person[iobj]=3
 23	ya	ya	ADV	_	_	22	advmod	_	_
 24	in	in	DET	_	_	25	det	_	_
@@ -4669,10 +4669,10 @@
 # text[spa] = La semilla se come, se abre como ejote, la semillita es dulce.
 # labels = sentence
 1	Itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kipijpixka	pijpiya	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pqp	3	parataxis	_	_
 7	majyá	majya	ADV	_	_	8	advmod	_	_
 8	exot	exot	NOUN	_	Case=Abs	6	obl	_	SpaceAfter=No
@@ -4793,20 +4793,20 @@
 # text[spa] = Al terminar, se pone a hervir en agua de cal para que suelte lo agrio, se lava y ya se preparan los frijoles con xokoyolin y con tequelite.
 # labels = sentence
 1	Kemaj	kemaj	INTJ	_	_	3	discourse	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kiayotia	ayotia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 5	tenexat	tenexat	NOUN	_	Case=Abs	4	nmod	_	_
 6	uan	huan	CCONJ	_	_	8	cc	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kikauantia	kauantia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 9	maj	ma	AUX	_	_	10	aux	_	_
 10	xokokkisa	xokokkisa	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	8	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kipaka	paka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 14	uan	huan	CCONJ	_	_	16	cc	_	_
-15	se	se	NUM	_	_	16	nsubj	_	_
+15	se	se	PRON	_	_	16	nsubj	_	_
 16	kichiua	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	13	conj	_	_
 17	ya	ya	ADV	_	_	16	advmod	_	_
 18	xokoyolemol	xokoyolemol	NOUN	_	Case=Abs	16	obj	_	_
@@ -4821,7 +4821,7 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	euat	ehuat	NOUN	_	Case=Abs	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kiatema	atema	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 6	refino	refino	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -4831,7 +4831,7 @@
 10	uan	huan	CCONJ	_	_	13	cc	_	_
 11-12	majase	_	_	_	_	_	_	_	_
 11	maja	ma	AUX	_	_	13	aux	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	4	conj	_	_
 14	ijuak	ijhuak	SCONJ	_	_	15	mark	_	_
 15	xoxoula	xoxoula	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	13	advcl	_	SpaceAfter=No
@@ -4931,7 +4931,7 @@
 # text = Se kitepeua uan kemaj ixua ya iteyo.
 # text[spa] = La semilla se riega y ahí germina.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitepeua	tepehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	uan	huan	CCONJ	_	_	5	cc	_	_
 4	kemaj	kemaj	INTJ	_	_	5	discourse	_	_
@@ -4958,7 +4958,7 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	ixochiyo	xochiyot	NOUN	_	Number[psor]=Sing|Person[psor]=3	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	komaltamal	komaltamal	NOUN	_	Case=Abs	4	obl	_	_
 6	uan	huan	CCONJ	_	_	8	cc	_	_
@@ -5014,7 +5014,7 @@
 # text = Se kikua in itakka.
 # text[spa] = El fruto se come, lo comen más los mestizos.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
@@ -5074,7 +5074,7 @@
 # text[spa] = La semilla también se vende.
 # labels = sentence
 1	Iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kinamaka	namaka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 4	no	no	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
@@ -5084,7 +5084,7 @@
 # text[spa] = No se desyerba porque se trepa en los árboles.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitameuia	tamehui	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	_
 4	por	por	ADP	_	_	6	mark	_	_
 5	qué	qué	PRON	_	_	4	fixed	_	_
@@ -5207,7 +5207,7 @@
 # text = Se kikua in ixiujyo.
 # text[spa] = Se comen sus hojas.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	ixiujyo	xiuyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
@@ -5281,7 +5281,7 @@
 # labels = sentence
 1	In	in	PRON	_	_	4	obj	_	_
 2	amo	amo	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -5319,7 +5319,7 @@
 # text = Se kikua itakka.
 # text[spa] = Se come su fruto.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
@@ -5343,19 +5343,19 @@
 # text[spa] = Las flores se cortan en la mañana. Luego que llega uno se hierven y se les pone sal y ya se comen con tortillas.
 # labels = sentence
 1	Ixochiyo	xochiyot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kiteki	teki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	kualkan	kualkan	ADV	_	_	3	advmod	_	_
 5	uan	huan	CCONJ	_	_	7	cc	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiejkoltia	ejkoltia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	_
 10	uan	huan	CCONJ	_	_	12	cc	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kipoyelia	poyelia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	_
 13	uan	huan	CCONJ	_	_	15	cc	_	_
-14	se	se	NUM	_	_	15	nsubj	_	_
+14	se	se	PRON	_	_	15	nsubj	_	_
 15	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	_
 16	ya	ya	ADV	_	_	15	advmod	_	_
 17	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	15	obl	_	_
@@ -5427,17 +5427,17 @@
 # text = Se kiteki uan se kimana maj oksi kuali uan iuan se kikua emol.
 # text[spa] = Se corta y se hierve a que se cueza bien y se come con frijoles.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kiteki	teki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	uan	huan	CCONJ	_	_	5	cc	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 6	maj	ma	AUX	_	_	7	aux	_	_
 7	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	advcl	_	_
 8	kuali	kuali	ADV	_	_	7	advmod	_	_
 9	uan	huan	CCONJ	_	_	12	cc	_	_
 10	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	12	obl	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 13	emol	emol	NOUN	_	Case=Abs	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
@@ -5488,7 +5488,7 @@
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	pero	pero	CCONJ	_	_	7	cc	_	_
 7	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	conj	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	csubj	_	_
 10	in	in	DET	_	_	11	det	_	_
 11	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	9	obj	_	SpaceAfter=No
@@ -5552,7 +5552,7 @@
 5	para	para	ADP	_	_	6	case	_	_
 6	tempalan	tempalan	NOUN	_	Case=Abs	4	obl	_	_
 7	:	:	PUNCT	_	_	9	punct	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikesteki	kesteki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
 10	in	in	DET	_	_	11	det	_	_
 11	kuouit	kohuit	NOUN	_	Case=Abs	9	obj	_	_
@@ -5562,7 +5562,7 @@
 15	ichkatsin	ichkat	NOUN	_	Degree=Dim	13	nmod	_	_
 16	oso	oso	CCONJ	_	_	17	cc	_	_
 17	tilmaj	tilmaj	NOUN	_	Case=Abs	15	conj	_	_
-18	se	se	NUM	_	_	19	nsubj	_	_
+18	se	se	PRON	_	_	19	nsubj	_	_
 19	kipaltia	paltia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	conj	_	_
 20	in	in	DET	_	_	21	det	_	_
 21	ichokilo	chokilo	NOUN	_	Number[psor]=Sing|Person[psor]=3	19	obj	_	_
@@ -5571,7 +5571,7 @@
 24	moojsa	ojsa	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	9	conj	_	Reflexive[obj]=Yes
 25	ya	ya	ADV	_	_	24	advmod	_	_
 26	kampa	kampa	ADV	_	PronType=Rel	28	advmod	_	_
-27	se	se	NUM	_	_	28	nsubj	_	_
+27	se	se	PRON	_	_	28	nsubj	_	_
 28	tempalani	tempalani	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	24	advcl	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -5643,7 +5643,7 @@
 2	porque	porque	SCONJ	_	_	3	mark	_	_
 3	teijtikokoj	ijtikokohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	1	advcl	_	_
 4	komo	komo	ADV	_	_	6	mark	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kitelkuaj	kua	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	Incorporated=Tel|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -5752,12 +5752,12 @@
 4	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 5	kuoujnex	kuoujnex	NOUN	_	Case=Abs	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kitsetseloua	tsetselohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 9	kualtsin	kuali	ADJ	_	Degree=Dim	10	advmod	_	_
 10	potoxtsin	potoxtsin	ADJ	_	Degree=Dim	8	xcomp	_	_
 11	uan	huan	CCONJ	_	_	13	cc	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kimaneloua	manelohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	conj	_	_
 14	ya	ya	ADV	_	_	13	advmod	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	_
@@ -5807,7 +5807,7 @@
 # text = Se kitoka para mochiua.
 # text[spa] = Hay que sembrarlo para que se de.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	para	para	SCONJ	_	_	4	mark	_	_
 4	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	Reflexive[obj]=Yes|SpaceAfter=No
@@ -5847,7 +5847,7 @@
 # text = Se kinamaka in iramitas.
 # text[spa] = Las ramitas se venden para la comida.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kinamaka	namaka	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 3	in	in	DET	_	_	4	det	_	_
 4	iramitas	ramita	NOUN	_	Gender=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
@@ -5883,7 +5883,7 @@
 # labels = sentence
 1	In	in	PRON	_	_	4	obj	_	_
 2	no	no	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -5913,7 +5913,7 @@
 # text = Se kichipaua.
 # text[spa] = Se limpia.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -6028,9 +6028,9 @@
 2	sesek	sesek	ADJ	_	Number[subj]=Sing|Person[subj]=3	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	8	punct	_	_
 4	cuando	cuando	SCONJ	_	_	6	mark	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	8	advcl	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	momaka	maka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	Reflexive[iobj]=Yes
 9	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
@@ -6045,21 +6045,21 @@
 # text[spa] = Sólo se come la carne del fruto : se le quita su semilla y se deja madurar y ya se come.
 # labels = sentence incorporation
 1	Ipa	ipa	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	saj	saj	ADV	_	_	3	advmod	_	_
 5	in	in	DET	_	_	6	det	_	_
 6	inakayo	nakayot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 7	:	:	PUNCT	_	_	10	punct	_	_
 8	achto	achto	ADV	_	_	10	advmod	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kiteyojkixtia	teyojkixtia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 11	para	para	SCONJ	_	_	12	mark	_	_
 12	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	10	advcl	_	_
 13	ya	ya	ADV	_	_	12	advmod	_	_
 14	uan	huan	CCONJ	_	_	17	cc	_	_
 15	kemaj	kemaj	INTJ	_	_	17	discourse	_	_
-16	se	se	NUM	_	_	17	nsubj	_	_
+16	se	se	PRON	_	_	17	nsubj	_	_
 17	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	10	conj	_	_
 18	ya	ya	ADV	_	_	17	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
@@ -6136,7 +6136,7 @@
 2	no	no	ADV	_	_	3	advmod	_	_
 3	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
 4	komo	komo	ADV	_	_	6	mark	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	sayoj	sayoj	ADV	_	_	11	advmod	_	_
@@ -6166,13 +6166,13 @@
 # text[spa] = Se usa el bagazo si uno quiere un petate para dormir (kochpetat).
 # labels = sentence
 1	No	no	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikui	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	in	in	DET	_	_	5	det	_	_
 5	ouapach	ohuapach	NOUN	_	Case=Abs	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	komo	komo	ADV	_	_	9	mark	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	_
 10	kochpetat	kochpetat	NOUN	_	Case=Abs	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
@@ -6193,7 +6193,7 @@
 5	,	,	PUNCT	_	_	9	punct	_	_
 6	sayoj	sayoj	ADV	_	_	9	advmod	_	_
 7	maj	ma	AUX	_	_	9	aux	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	_	_
 10	in	in	DET	_	_	11	det	_	_
 11	tsapot	tsapot	NOUN	_	Case=Abs	9	obj	_	SpaceAfter=No
@@ -6204,17 +6204,17 @@
 # text[spa] = Si uno quiere tenerla, arranca uno una matita de lengua de tigre, donde la hay, y la siembra al pie de las piedras.
 # labels = sentence
 1	Komo	komo	ADV	_	_	3	mark	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	advcl	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kipiyas	piya	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kiuiuita	huihuita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 9	kampa	kampa	ADV	_	PronType=Rel	10	advmod	_	_
 10	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	8	advcl	_	_
 11	uan	huan	CCONJ	_	_	13	cc	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	conj	_	_
 14	itaktsoyo	taktsoyot	NOUN	_	Number[psor]=Sing|Person[psor]=3	13	obj	_	_
 15	kampa	kampa	ADV	_	PronType=Rel	17	advmod	_	_
@@ -6232,7 +6232,7 @@
 4	pajti	pajti	NOUN	_	Case=Abs	2	obl	_	SpaceAfter=No
 5	;	;	PUNCT	_	_	8	punct	_	_
 6	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kichiua	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 9	pelotillas	pelotilla	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
@@ -6247,7 +6247,7 @@
 # text[spa] = Sus semillas se pueden comer, son muy amarillas.
 # labels = sentence
 1	Kuali	kuali	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
@@ -6263,10 +6263,10 @@
 # text = Se kikua, se kimana ika tenexistat; uelik kemej uaujkilit.
 # text[spa] = Se come: se hierve con sal caliza; es sabroso como el quiltonile.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 6	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 7	tenexistat	tenexistat	NOUN	_	Case=Abs	6	nmod	_	SpaceAfter=No
@@ -6292,7 +6292,7 @@
 # labels = sentence incorporation
 1	In	in	DET	_	_	2	det	_	_
 2	takilot	takilot	NOUN	_	Case=Abs	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 6	chiltamoltal	chiltamoltal	NOUN	_	Case=Abs	5	nmod	_	_
@@ -6304,17 +6304,17 @@
 12	para	para	ADP	_	_	13	case	_	_
 13	pajti	pajti	NOUN	_	Case=Abs	11	obl	_	SpaceAfter=No
 14	:	:	PUNCT	_	_	16	punct	_	_
-15	se	se	NUM	_	_	16	nsubj	_	_
+15	se	se	PRON	_	_	16	nsubj	_	_
 16	kiixtapana	ixtapana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
 17	uan	huan	CCONJ	_	_	19	cc	_	_
-18	se	se	NUM	_	_	19	nsubj	_	_
+18	se	se	PRON	_	_	19	nsubj	_	_
 19	kitekilia	tekilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	16	conj	_	_
 20	refino	refino	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
 21	uan	huan	CCONJ	_	_	23	cc	_	_
-22	se	se	NUM	_	_	23	nsubj	_	_
+22	se	se	PRON	_	_	23	nsubj	_	_
 23	moyolixxakualoua	yolixxakualohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	16	conj	_	Reflexive[obj]=Yes
 24	ijuak	ijhuak	SCONJ	_	_	26	mark	_	_
-25	se	se	NUM	_	_	26	nsubj	_	_
+25	se	se	PRON	_	_	26	nsubj	_	_
 26	totonia	totonia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	23	advcl	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -6356,7 +6356,7 @@
 3	ya	ya	ADV	_	_	2	advmod	_	_
 4	moneki	neki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
 5	maj	ma	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	ccomp	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -6372,12 +6372,12 @@
 # text = Se kikua in itakilo, se kikixtilia in ieuayo.
 # text[spa] = Su fruto se come sacándole la cáscara.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kikixtilia	kixtilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	Number[iobj]=Sing|Person[iobj]=3
 8	in	in	DET	_	_	9	det	_	_
 9	ieuayo	ehuayo	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	SpaceAfter=No
@@ -6445,7 +6445,7 @@
 # labels = sentence
 1	No	no	ADV	_	_	4	advmod	_	_
 2	kuali	kuali	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
 6	nakat	nakat	NOUN	_	Case=Abs	5	nmod	_	SpaceAfter=No
@@ -6501,15 +6501,15 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	chiauakilit	chiahuakilit	NOUN	_	Case=Abs	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
 8	kemej	kemej	ADP	_	_	9	case	_	_
 9	tomakilit	tomakilit	NOUN	_	Case=Abs	7	obl	_	_
 10	uan	huan	CCONJ	_	_	12	cc	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	_
 13	ya	ya	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
@@ -6746,7 +6746,7 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	nanakatsin	nanakat	NOUN	_	Degree=Dim	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	4	punct	_	_
 
@@ -6789,7 +6789,7 @@
 # text = Se kitoka iteyotsin.
 # text[spa] = La semillita se siembra.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	iteyotsin	teyo	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
@@ -6888,7 +6888,7 @@
 8	xoxouik	xoxohuik	ADJ	_	_	7	advmod	_	_
 9	uan	huan	CCONJ	_	_	12	cc	_	_
 10	maj	ma	AUX	_	_	12	aux	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -6925,7 +6925,7 @@
 2	por	por	ADP	_	_	9	mark	_	_
 3	qué	qué	PRON	_	_	2	fixed	_	_
 4	komo	komo	ADV	_	_	6	mark	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	advcl	_	_
 7	miak	miak	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	_
@@ -6986,7 +6986,7 @@
 # labels = sentence
 1	Entos	entos	ADV	_	_	2	advmod	_	_
 2	yejua	yehua	PRON	_	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	komo	komo	ADV	_	_	6	mark	_	_
 6	tekokoj	kokohua	VERB	_	Animacy[obj]=Hum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	4	advcl	_	_
@@ -7064,7 +7064,7 @@
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	sayoj	sayoj	ADV	_	_	7	advmod	_	_
 5	maj	ma	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -7124,13 +7124,13 @@
 # text[spa] = Su fruto se come, se tuesta en el comal y se muele en el metate.
 # labels = sentence incorporation
 1	Iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikomalteuatsa	komaltehuatsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 7	uan	huan	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikuechoua	kuechohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 10	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
 11	metat	metat	NOUN	_	Case=Abs	10	nmod	_	SpaceAfter=No
@@ -7180,11 +7180,11 @@
 1	Uan	huan	CCONJ	_	_	5	cc	_	_
 2	kemaj	kemaj	INTJ	_	_	5	discourse	_	_
 3	maj	ma	AUX	_	_	5	aux	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	takua	kua	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 6	ya	ya	ADV	_	_	5	advmod	_	_
 7	komo	komo	ADV	_	_	9	mark	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kipiya	piya	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	advcl	_	_
 10	taxkal	taxkal	NOUN	_	Case=Abs	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
@@ -7265,7 +7265,7 @@
 17	uiuilakani	huihuilakani	NOUN	_	Case=Abs	13	conj	_	_
 18	uan	huan	CCONJ	_	_	21	cc	_	_
 19	kemaj	kemaj	INTJ	_	_	21	discourse	_	_
-20	se	se	NUM	_	_	21	nsubj	_	_
+20	se	se	PRON	_	_	21	nsubj	_	_
 21	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	11	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
@@ -7298,7 +7298,7 @@
 # text = Se kikua.
 # text[spa] = Se come.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -7319,7 +7319,7 @@
 1	In	in	DET	_	_	2	det	_	_
 2	xitomat	xitomat	NOUN	_	Case=Abs	5	dislocated	_	_
 3	no	no	ADV	_	_	5	advmod	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 6	in	in	DET	_	_	7	det	_	_
 7	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	5	obj	_	SpaceAfter=No
@@ -7348,7 +7348,7 @@
 # text[spa] = No se limpia.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -7381,7 +7381,7 @@
 2	in	in	DET	_	_	3	det	_	_
 3	tataman	taman	NOUN	_	Number=Plur	6	obj	_	_
 4	pajpata	pajpata	NOUN	_	Case=Abs	3	nmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -7508,14 +7508,14 @@
 3	por	por	ADP	_	_	15	mark	_	_
 4	in	in	DET	_	_	3	fixed	_	_
 5	ijuak	ijhuak	SCONJ	_	_	7	mark	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiki	kixtilia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Typo=Yes	15	advcl	_	Number[iobj]=Sing|Person[iobj]=3
 8	xtilia	_	X	_	_	7	goeswith	_	_
 9	in	in	DET	_	_	10	det	_	_
 10	ieuayo	ehuayo	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	_	_
 11	uan	huan	CCONJ	_	_	12	cc	_	_
 12	peua	pehua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	7	conj	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	12	xcomp	_	_
 15	mokaujtiuj	mokahua	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	Reflexive[obj]=Yes
 16	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	15	obl	_	_
@@ -7566,13 +7566,13 @@
 # labels = sentence
 1	Para	para	ADP	_	_	2	case	_	_
 2	atol	atol	NOUN	_	Case=Abs	4	obl	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kiteki	teki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	in	in	DET	_	_	6	det	_	_
 6	kapolin	kapolin	NOUN	_	Case=Abs	4	obj	_	_
 7	oksik	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	6	acl:relcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kiualkui	kui	VERB	_	Movement=Ven|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	kipataj	pata	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
@@ -7717,7 +7717,7 @@
 # text = Se kinamaka tamanal ya ne Kuesalan.
 # text[spa] = Se vende ya hervido en Cuetzalan.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kinamaka	namaka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 3	tamanal	tamanal	ADJ	_	_	2	xcomp	_	_
 4	ya	ya	ADV	_	_	3	advmod	_	_
@@ -7734,7 +7734,7 @@
 3	saj	saj	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	amo	amo	ADV	_	_	7	advmod	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -7743,13 +7743,13 @@
 # text[spa] = También se come: se le quita la cáscara y se echa a una cubeta de agua con ceniza, después se le quita el agua, se lava y se pone a los frijoles, se agrega ajonjolí y nacastequelite y ya se deja hervir.
 # labels = sentence incorporation
 1	No	no	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	6	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kieuayojkixtia	ehuayojkixtia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 7	uan	huan	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kitema	tema	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	_
 10	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
 11	se	se	DET	_	_	12	det	_	_
@@ -7765,24 +7765,24 @@
 # text[spa] = También se come: se le quita la cáscara y se echa a una cubeta de agua con ceniza, después se le quita el agua, se lava y se pone a los frijoles, se agrega ajonjolí y nacastequelite y ya se deja hervir.
 # labels = sentence incorporation
 1	Satepan	satepan	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kiakixtia	akixtia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kipaka	paka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 7	uan	huan	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kitema	tema	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 10	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
 11	emol	emol	NOUN	_	Case=Abs	10	nmod	_	_
 12	uan	huan	CCONJ	_	_	14	cc	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kitalilia	talilia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	9	conj	_	Number[iobj]=Sing|Person[iobj]=3
 15	akolin	akolin	NOUN	_	Case=Abs	14	obj	_	_
 16	uan	huan	CCONJ	_	_	17	cc	_	_
 17	nakasuiyo	nakasuiyo	NOUN	_	Case=Abs	15	conj	_	_
 18	uan	huan	CCONJ	_	_	20	cc	_	_
-19	se	se	NUM	_	_	20	nsubj	_	_
+19	se	se	PRON	_	_	20	nsubj	_	_
 20	kikaua	kahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	conj	_	_
 21	maj	ma	AUX	_	_	22	aux	_	_
 22	moloni	moloni	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	20	ccomp	_	_
@@ -7877,17 +7877,17 @@
 5	,	,	PUNCT	_	_	9	punct	_	_
 6	sólo	sólo	ADV	_	_	9	advmod	_	_
 7	para	para	SCONJ	_	_	9	mark	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	uelik	huelik	ADJ	_	Number[subj]=Sing|Person[subj]=3	3	parataxis	_	_
 15	chilposontsin	chilposon	NOUN	_	Degree=Dim	14	nsubj	_	_
 16	uan	huan	CCONJ	_	_	19	cc	_	_
 17	komo	komo	ADV	_	_	19	mark	_	_
-18	se	se	NUM	_	_	19	nsubj	_	_
+18	se	se	PRON	_	_	19	nsubj	_	_
 19	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	15	conj	_	_
 20	caldito	caldito	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
@@ -7898,11 +7898,11 @@
 # labels = sentence
 1	Uan	huan	CCONJ	_	_	4	cc	_	_
 2	no	no	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	tamapatal	tamapatal	NOUN	_	Case=Abs	4	obj	_	_
 6	maj	ma	AUX	_	_	8	aux	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kipoyeli	poyelia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	4	parataxis	_	_
 9	oso	oso	CCONJ	_	_	10	cc	_	_
 10	tatsoyon	tatsoyon	NOUN	_	Case=Abs	8	conj	_	SpaceAfter=No
@@ -7933,11 +7933,11 @@
 # labels = sentence
 1	No	no	ADV	_	_	2	advmod	_	_
 2	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kichijchiua	chijchihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	csubj	_	_
 5	atol	atol	NOUN	_	Case=Abs	4	obj	_	_
 6	uan	huan	CCONJ	_	_	8	cc	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	tayi	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	4	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -7969,7 +7969,7 @@
 # text[spa] = Si uno quiere comer los ejotes verdes, estos se hierven, se les pone sal y se cuecen muy rápido y luego ya se comen.
 # labels = sentence
 1	Komo	komo	ADV	_	_	3	mark	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	advcl	_	_
 4	exot	exot	NOUN	_	Case=Abs	3	obj	_	_
 5	tein	tein	PRON	_	_	6	nsubj	_	_
@@ -7977,13 +7977,13 @@
 7	,	,	PUNCT	_	_	3	punct	_	_
 8	sekimana	mana	VERB	_	Number[obj]=Sing|Person[obj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 9	uan	huan	CCONJ	_	_	11	cc	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kipoyelia	poyelia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	conj	_	_
 12	uan	huan	CCONJ	_	_	14	cc	_	_
 13	niman	niman	ADV	_	_	14	advmod	_	_
 14	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	11	conj	_	_
 15	uan	huan	CCONJ	_	_	17	cc	_	_
-16	se	se	NUM	_	_	17	nsubj	_	_
+16	se	se	PRON	_	_	17	nsubj	_	_
 17	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	14	conj	_	_
 18	ya	ya	ADV	_	_	17	advmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	8	punct	_	_
@@ -8005,17 +8005,17 @@
 # text = Se kikualia itakka, se kimana, pero amo miak se kitekilia in at por qué yej moayotia uan amo se kitsopelia.
 # text[spa] = El fruto se come, se hierve, pero no se le echa mucha agua, porque es muy jugoso, no se endulza.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikualia	kualia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 3	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	pero	pero	CCONJ	_	_	12	cc	_	_
 9	amo	amo	ADV	_	_	12	advmod	_	_
 10	miak	miak	ADV	_	_	12	advmod	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kitekilia	tekilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	_
 13	in	in	DET	_	_	14	det	_	_
 14	at	at	NOUN	_	Case=Abs	12	obj	_	_
@@ -8025,7 +8025,7 @@
 18	moayotia	ayotia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	12	advcl	_	Reflexive[obj]=Yes
 19	uan	huan	CCONJ	_	_	22	cc	_	_
 20	amo	amo	ADV	_	_	22	advmod	_	_
-21	se	se	NUM	_	_	22	nsubj	_	_
+21	se	se	PRON	_	_	22	nsubj	_	_
 22	kitsopelia	tsopelia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	18	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8059,12 +8059,12 @@
 # labels = sentence
 1	In	in	PRON	_	_	4	obj	_	_
 2	no	no	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	uan	huan	CCONJ	_	_	12	cc	_	_
 6	kemasá	kemasa	ADV	_	_	9	advmod	_	_
 7	kampa	kampa	ADV	_	PronType=Rel	9	advmod	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	12	advcl	_	_
 10	no	no	ADV	_	_	12	advmod	_	_
 11	ompa	ompa	ADV	_	_	12	advmod	_	_
@@ -8101,7 +8101,7 @@
 # labels = sentence
 1	Amo	amo	ADV	_	_	4	advmod	_	_
 2	uel	hueli	AUX	_	_	4	aux	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kiixmati	ixmati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	in	in	DET	_	_	6	det	_	_
 6	ixiujyo	xiuyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	4	obj	_	_
@@ -8111,7 +8111,7 @@
 10	iujki	iuki	ADV	_	_	4	advcl	_	_
 11	saj	saj	ADV	_	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kiixmati	ixmati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
 15	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	14	obl	_	_
 16	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	15	nmod	_	SpaceAfter=No
@@ -8122,16 +8122,16 @@
 # text[spa] = Se come igual que el capulín, se chupa y la semilla se come en tayoyos.
 # labels = sentence
 1	In	in	PRON	_	_	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	kemej	kemej	ADP	_	_	5	case	_	_
 5	kapolin	kapolin	NOUN	_	Case=Abs	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kipipina	pipina	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 9	uan	huan	CCONJ	_	_	12	cc	_	_
 10	iteyotsin	teyo	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	12	obj	_	_
-11	se	se	NUM	_	_	12	nsubj	_	_
+11	se	se	PRON	_	_	12	nsubj	_	_
 12	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 13	etaxkal	etaxkal	NOUN	_	Case=Abs	12	obl	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
@@ -8152,18 +8152,18 @@
 # text = Se kikua in itakka, se kixijxima, se kitejteki uan se kikua.
 # text[spa] = Su fruto se come, se pela y se corta, luego se come.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kixijxima	xijxima	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kitejteki	tejteki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 11	uan	huan	CCONJ	_	_	13	cc	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8233,7 +8233,7 @@
 # text[spa] = No se siembra.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -8264,14 +8264,14 @@
 2	in	in	DET	_	_	3	det	_	_
 3	diabetis	diabetis	NOUN	_	Case=Abs	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kipanaltia	altia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Incorporated=Pan
 7	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
 8	limón	limón	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	se	se	DET	_	_	10	det	_	_
 10	piotet	piotet	NOUN	_	Case=Abs	6	obj	_	_
 11	uan	huan	CCONJ	_	_	13	cc	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kikaua	kahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	_
 14	kalampa	kalampa	ADV	_	_	13	advmod	_	_
 15	maj	ma	AUX	_	_	16	aux	_	_
@@ -8306,7 +8306,7 @@
 # text[spa] = Este quelite se come así crudo.
 # labels = sentence
 1	No	no	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	in	in	DET	_	_	5	det	_	_
 5	kilit	kilit	NOUN	_	Case=Abs	3	obj	_	_
@@ -8348,7 +8348,7 @@
 6	,	,	PUNCT	_	_	10	punct	_	_
 7	solo	sólo	ADV	_	_	10	advmod	_	_
 8	itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	10	obj	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -8373,7 +8373,7 @@
 3	eski	etok	AUX	_	Number[subj]=Sing|Person[subj]=3|Tense=Fut	2	cop	_	_
 4	uan	huan	CCONJ	_	_	7	cc	_	_
 5	maj	ma	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitameui	tamehui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	conj	_	_
 8	ijuak	ijhuak	SCONJ	_	_	9	mark	_	_
 9	tsikitsin	tsiki	ADJ	_	Degree=Dim|Number[subj]=Sing|Person[subj]=3	7	advcl	_	SpaceAfter=No
@@ -8387,9 +8387,9 @@
 2	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	komo	komo	ADV	_	_	6	mark	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kitemoua	temohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kajsi	ajsi	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 9	sikieraj	sikiera	ADV	_	_	11	advmod	_	_
 10	se	se	NUM	_	_	11	nummod	_	_
@@ -8400,7 +8400,7 @@
 # text = Se kikua nochi ika ieuayo, amo uel pixki.
 # text[spa] = Se come con todo y cáscara, no se puede pelar.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	nochi	nochi	PRON	_	_	2	obj	_	_
 4	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	2	obl	_	_
@@ -8459,14 +8459,14 @@
 # text = Se kitoka iteyo, ixua uan maj se kichipaua.
 # text[spa] = Se siembra la semilla y cuando brota se limpia.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	ixua	ixhua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	parataxis	_	_
 6	uan	huan	CCONJ	_	_	9	cc	_	_
 7	maj	ma	AUX	_	_	9	aux	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8500,14 +8500,14 @@
 # text[spa] = Va uno temprano a escarbar y si hay agua, se lava ya [en el monte].
 # labels = sentence
 1	Kualkan	kualkan	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kichkuati	ichkua	VERB	_	Movement=And|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	_
 4	uan	huan	CCONJ	_	_	10	cc	_	_
 5	komo	komo	ADV	_	_	6	mark	_	_
 6	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	10	advcl	_	_
 7	at	at	NOUN	_	Case=Abs	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kipakaya	paka	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	3	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -8560,7 +8560,7 @@
 1	No	no	ADV	_	_	2	advmod	_	_
 2	moneki	neki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
 3	maj	ma	AUX	_	_	5	aux	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	csubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8569,7 +8569,7 @@
 # text[spa] = Se deshierba.
 # labels = sentence
 1	In	in	PRON	_	_	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -8592,7 +8592,7 @@
 # text[spa] = Se siembra y en otros lugares brota solo.
 # labels = sentence
 1	In	in	PRON	_	_	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	uan	huan	CCONJ	_	_	7	cc	_	_
 5	kasá	kasa	ADV	_	_	7	advmod	_	_
@@ -8625,7 +8625,7 @@
 # text[spa] = Hay que desherbarlo.
 # labels = sentence
 1	Maj	ma	AUX	_	_	3	aux	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kitameui	tamehui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	no	no	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
@@ -8711,13 +8711,13 @@
 # text[spa] = Donde sabe uno que lo tienen, lo va uno a comprar, si lo quiere comer.
 # labels = sentence
 1	Kampa	kampa	ADV	_	PronType=Rel	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimattok	mati	VERB	_	Aspect=Prog|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	advcl	_	_
 4	kipiya	piya	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	ccomp	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	mokouilia	kohuilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[iobj]=Yes
 7	komo	komo	ADV	_	_	9	mark	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9-10	kikuasneki	_	_	_	_	_	_	_	SpaceAfter=No
 9	kikuas	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	6	advcl	_	_
 10	neki	neki	AUX	_	_	9	aux	_	_
@@ -8727,7 +8727,7 @@
 # text = Se kitoka neuín kuoujtaj, moajokui saj chiktejtsitsin kimoyauaj iteyotsin.
 # text[spa] = Se siembra, pero allá por el monte se da solo, porque los pajaros riegan sus semillas.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	neuín	nehuin	ADV	_	_	2	advmod	_	_
 4	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	3	appos	_	SpaceAfter=No
@@ -8743,7 +8743,7 @@
 # text = Se kikua in iteyo.
 # text[spa] = Su fruto se come.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	SpaceAfter=No
@@ -8775,7 +8775,7 @@
 4	qué	qué	PRON	_	_	3	fixed	_	_
 5	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	1	advcl	_	_
 6	para	para	SCONJ	_	_	8	mark	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	tayis	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	5	advcl	_	_
 9	kemej	kemej	ADP	_	_	10	case	_	_
 10	agua	agua	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
@@ -8947,7 +8947,7 @@
 # text[spa] = Se desyerba.
 # labels = sentence
 1	No	no	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimeua	mehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -9011,7 +9011,7 @@
 # text[spa] = Su fruto se come.
 # labels = sentence
 1	Itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	obj	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -9034,7 +9034,7 @@
 # text = Se kinamaka.
 # text[spa] = Se vende.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kinamaka	namaka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -9236,7 +9236,7 @@
 # text = Se kikua in nanakatsin ika chilposon oso kaldoj.
 # text[spa] = Este hongo se come en chilpozonte o en caldito, es muy sabroso.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	nanakatsin	nanakat	NOUN	_	Degree=Dim	2	obj	_	_
@@ -9291,7 +9291,7 @@
 # labels = sentence
 1	Ipa	ipa	ADV	_	_	4	advmod	_	_
 2	sayoj	sayoj	ADV	_	_	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	in	in	DET	_	_	6	det	_	_
 6	ikamojyo	kamojyot	NOUN	_	Number[psor]=Sing|Person[psor]=3	4	obj	_	SpaceAfter=No
@@ -9333,10 +9333,10 @@
 2	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	6	advcl	_	_
 3	uitskolantojkonemej	huitskolantojkonet	NOUN	_	Number=Plur	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kiuiuita	huihuita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 7	uan	huan	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -9358,7 +9358,7 @@
 # text = Se kinamaka.
 # text[spa] = Tal vez sea caliente pues es de tierras bajas.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kinamaka	namaka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -9454,7 +9454,7 @@
 # text[spa] = No se limpia porque está en la corteza de los árboles.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimeua	mehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	ta	ta	ADV	_	_	8	advmod	_	_
@@ -9469,7 +9469,7 @@
 # labels = sentence
 1	Kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 2	para	para	SCONJ	_	_	4	mark	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kiajuiyalia	ajuiyalia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	advcl	_	Number[iobj]=Sing|Person[iobj]=3
 5	in	in	DET	_	_	6	det	_	_
 6	tapalol	tapalol	NOUN	_	Case=Abs	4	iobj	_	SpaceAfter=No
@@ -9573,18 +9573,18 @@
 # labels = sentence
 1	Uan	huan	CCONJ	_	_	6	cc	_	_
 2	komo	komo	ADV	_	_	4	mark	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	advcl	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kitemoua	temohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 7	oso	oso	CCONJ	_	_	9	cc	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikoua	kohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	_
 10	se	se	DET	_	_	11	det	_	_
 11	plantita	planta	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	Deriv=Dim
 12	uan	huan	CCONJ	_	_	15	cc	_	_
 13	ikuoujyotsin	kuoujyotsin	NOUN	_	Number[psor]=Sing|Person[psor]=3	15	obj	_	_
-14	se	se	NUM	_	_	15	nsubj	_	_
+14	se	se	PRON	_	_	15	nsubj	_	_
 15	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	ompa	ompa	ADV	_	_	19	advmod	_	_
@@ -9645,7 +9645,7 @@
 1	Nikauín	nikahuin	ADV	_	_	5	advmod	_	_
 2	amo	amo	ADV	_	_	5	advmod	_	_
 3	keman	keman	ADV	_	_	2	fixed	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kiajsi	ajsi	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 6	solo	sólo	ADV	_	_	7	advmod	_	_
 7	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	5	parataxis	_	Reflexive[obj]=Yes
@@ -9696,12 +9696,12 @@
 # text = Se kitoka in iteyo komo se kiuelita, pero tein onkak ixua saj.
 # text[spa] = Si uno quiere lo siembra, o si no, nace solo.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	in	in	DET	_	_	4	det	_	_
 4	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	_
 5	komo	komo	ADV	_	_	7	mark	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kiuelita	huelita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	pero	pero	CCONJ	_	_	12	cc	_	_
@@ -9717,7 +9717,7 @@
 # labels = sentence
 1	Ixochiyotsin	xochiyot	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	2	nsubj	_	_
 2	uelik	huelik	ADJ	_	Number[subj]=Sing|Person[subj]=3	0	root	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 5	tatsoyon	tatsoyon	NOUN	_	Case=Abs	4	obj	_	_
 6	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	4	obl	_	_
@@ -9775,10 +9775,10 @@
 # text = Se kitoka uan se kichipaua cuando plantitas kokonemej ok.
 # text[spa] = Se siembra y se limpia cuando las plantas son chicas.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	uan	huan	CCONJ	_	_	5	cc	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kichipaua	chipahua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 6	cuando	cuando	SCONJ	_	_	8	mark	_	_
 7	plantitas	plantita	NOUN	_	Gender=Fem|Number=Plur	8	nsubj	_	_
@@ -9821,11 +9821,11 @@
 # text = Se kiixtapana exot uan se kikua tein istak, pané ichkat, yejua tsopek.
 # text[spa] = Se abre el ejote y se come lo blanco, parece algodón y está dulce.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kiixtapana	ixtapana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 3	exot	exot	NOUN	_	Case=Abs	2	obj	_	_
 4	uan	huan	CCONJ	_	_	6	cc	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 7	tein	tein	PRON	_	_	6	obj	_	_
 8	istak	istak	ADJ	_	Number[subj]=Sing|Person[subj]=3	7	acl:relcl	_	SpaceAfter=No
@@ -9841,19 +9841,19 @@
 # text = Se kikua, se kimana ika se komit uan se kipoyelia uan se kikua ya.
 # text[spa] = Se come, se hierve en una olla, se sala y ya se come.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 6	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
 7	se	se	DET	_	_	8	det	_	_
 8	komit	komit	NOUN	_	Case=Abs	6	nmod	_	_
 9	uan	huan	CCONJ	_	_	11	cc	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kipoyelia	poyelia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 12	uan	huan	CCONJ	_	_	14	cc	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	conj	_	_
 15	ya	ya	ADV	_	_	14	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	14	punct	_	_
@@ -9863,11 +9863,11 @@
 # text[spa] = Se muelen y se fríen con manteca, cuando ya están cocidos, ya se comen.
 # labels = sentence
 1	Ompa	ompa	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikuechoua	kuechohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	ya	ya	ADV	_	_	3	advmod	_	_
 5	uan	huan	CCONJ	_	_	7	cc	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitsoyonia	tsoyonia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 8	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
 9	manteca	manteca	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
@@ -9875,7 +9875,7 @@
 11	tami	tami	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	15	advcl	_	_
 12	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	11	xcomp	_	_
 13	maj	ma	AUX	_	_	15	aux	_	_
-14	se	se	NUM	_	_	15	nsubj	_	_
+14	se	se	PRON	_	_	15	nsubj	_	_
 15	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 16	ya	ya	ADV	_	_	15	advmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	15	punct	_	_
@@ -9917,7 +9917,7 @@
 1	Semi	semi	ADV	_	_	2	advmod	_	_
 2	uelik	huelik	ADJ	_	Number[subj]=Sing|Person[subj]=3	0	root	_	_
 3	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	takua	kua	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -9983,7 +9983,7 @@
 # text = Se kikualia in iteyo ijuak oksi.
 # text[spa] = Se come la semilla cuando está madura.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikualia	kualia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Number[iobj]=Sing|Person[iobj]=3
 3	in	in	DET	_	_	4	det	_	_
 4	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	_	_
@@ -10006,7 +10006,7 @@
 # text = Se kikua, pero sayoj yek teyoj.
 # text[spa] = Se come, sólo que tiene mucha semilla.
 # labels = sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	pero	pero	CCONJ	_	_	7	cc	_	_
@@ -10029,7 +10029,7 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	talkamoj	talkamoj	NOUN	_	Case=Abs	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	taaman	taaman	NOUN	_	Case=Abs	4	obl	_	_
 6	iuan	huan	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	5	nmod	_	_
@@ -10072,7 +10072,7 @@
 # labels = sentence
 1	Mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes
 2	kampa	kampa	ADV	_	PronType=Rel	4	advmod	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	advcl	_	_
 5	milaj	milaj	NOUN	_	Case=Abs	4	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
@@ -10124,7 +10124,7 @@
 # text[spa] = No se limpia porque crece rápido.
 # labels = sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimeua	mehua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	por	por	ADP	_	_	7	mark	_	_
 5	in	in	DET	_	_	4	fixed	_	_
@@ -10250,7 +10250,7 @@
 2	kualtia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 3	para	para	SCONJ	_	_	6	mark	_	_
 4	ika	ka	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	tachijchiua	chijchihua	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -10271,12 +10271,12 @@
 # labels = sentence
 1	In	in	DET	_	_	2	det	_	_
 2	iteyotsin	teyo	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	ijuak	ijhuak	SCONJ	_	_	6	mark	_	_
 6	oksi	oksi	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	4	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	_
 10	kemej	kemej	ADP	_	_	11	case	_	_
 11	elot	elot	NOUN	_	Case=Abs	9	obl	_	SpaceAfter=No
@@ -10410,7 +10410,7 @@
 3	nikmatia	mati	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran	0	root	_	_
 4	yon	yon	PRON	_	_	7	obj	_	_
 5	keniw	keni	ADV	_	_	7	advmod	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kitatekiwtiaya	tatekiutia	VERB	_	Aspect=Imp|Number[subj]=Sing|Person[subj]=3|Subcat=Tran	3	ccomp	_	Number[iobj]=Sing|Person[iobj]=3|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -10420,7 +10420,7 @@
 # text[spa] = Uno debe hervir las hojitas.
 # labels = a88 sentence
 1	Mah	ma	AUX	_	_	3	aux	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimana	mana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	xiwtsin	xihuit	NOUN	_	Degree=Dim	3	obj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
@@ -10576,7 +10576,7 @@
 2	yon	yon	PRON	_	_	6	obj	_	_
 3	ox	ox	SCONJ	_	_	6	mark	_	_
 4	miak	miak	ADV	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikwi	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -10674,7 +10674,7 @@
 # labels = a169 sentence
 1	Wan	huan	CCONJ	_	_	4	cc	_	_
 2	mah	ma	AUX	_	_	4	aux	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kimamana	mamana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -10995,7 +10995,7 @@
 # text[spa] = Uno no se entera, mm.
 # labels = a156 sentence
 1	Amo	amo	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	mm	mm	INTJ	_	_	3	discourse	_	SpaceAfter=No
@@ -11603,7 +11603,7 @@
 17	se	se	NUM	_	_	18	nsubj	_	_
 18	ki...	ki	X	_	_	21	reparandum	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	18	punct	_	_
-20	se	se	NUM	_	_	21	nsubj	_	_
+20	se	se	PRON	_	_	21	nsubj	_	_
 21	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	_	_
 22	ya	ya	ADV	_	_	21	advmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
@@ -11846,7 +11846,7 @@
 # labels = a97 sentence
 1	De	de	ADP	_	_	2	mark	_	_
 2	sehselik	sejselik	ADJ	_	Number[subj]=Sing|Person[subj]=3	4	advcl	_	Reduplicated=Yes
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	hasta	hasta	ADP	_	_	10	case	_	_
 6	n'	in	DET	_	_	7	det	_	_
@@ -11932,7 +11932,7 @@
 2	ixwa	ixhua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	kasika	kasika	ADV	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	_
 7	ihkon	ijkon	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
@@ -11947,13 +11947,13 @@
 # text[spa] = Ahí los corta uno y se..., llevan a la casa también.
 # labels = a129 sentence
 1	Ompa	ompa	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikwihkwi	kuijkui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	wan	huan	CCONJ	_	_	9	cc	_	_
 5	se	se	NUM	_	_	6	nsubj	_	_
 6	ki...	ki	X	_	_	9	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kwika	huika	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	_
 10	ya	ya	ADV	_	_	9	advmod	_	_
 11	no	no	ADV	_	_	9	advmod	_	SpaceAfter=No
@@ -12081,7 +12081,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	nen	nen	INTJ	_	_	4	discourse	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -12103,7 +12103,7 @@
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	pos	pos	ADV	_	_	13	advmod	_	_
 11	nochi	nochi	PRON	_	_	13	obj	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -12212,7 +12212,7 @@
 2	kwali	kuali	ADJ	_	_	4	reparandum	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	kwali	kuali	ADJ	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	yowi	yohui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 7	a	a	INTJ	_	_	6	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
@@ -12231,7 +12231,7 @@
 3	ya	ya	ADV	_	_	2	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	kemah	kemaj	INTJ	_	_	7	discourse	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	tai	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	parataxis	_	_
 8	a	a	INTJ	_	_	7	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
@@ -12241,7 +12241,7 @@
 # text[orig] = Se: tai a.
 # text[spa] = Ya lo bebe uno.
 # labels = a169 sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	tai	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 3	a	a	INTJ	_	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
@@ -12286,7 +12286,7 @@
 6	se	se	NUM	_	_	7	nsubj	_	_
 7	ki...	ki	X	_	_	10	reparandum	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kichiwas	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	3	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	nijon	nijon	PRON	_	_	3	discourse	_	SpaceAfter=No
@@ -12341,7 +12341,7 @@
 # text[spa] = Que lo apachurre muy bien.
 # labels = a231 sentence
 1	Mah	ma	AUX	_	_	3	aux	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kimapatska	mapatska	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	kwaltsin	kuali	ADJ	_	Degree=Dim	3	advmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
@@ -12511,7 +12511,7 @@
 # text[orig] = Se: tai a.
 # text[spa] = Ya lo bebe uno.
 # labels = a168 sentence
-1	Se	se	NUM	_	_	2	nsubj	_	_
+1	Se	se	PRON	_	_	2	nsubj	_	_
 2	tai	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
 3	a	a	INTJ	_	_	2	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
@@ -12666,7 +12666,7 @@
 1	Kemah	kemaj	INTJ	_	_	5	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	kan	kan	ADV	_	_	5	advmod	_	_
-4	se	se	NUM	_	_	5	nsubj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	kimati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -12679,7 +12679,7 @@
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ta	ta	ADV	_	_	6	advmod	_	_
 4	yon	yon	PRON	_	_	6	obj	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kixamania	xamania	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -12733,7 +12733,7 @@
 3	mah	ma	AUX	_	_	5	reparandum	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	mah	ma	AUX	_	_	7	aux	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	motapowi	tapohui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	Reflexive[obj]=Yes|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -12917,7 +12917,7 @@
 6	kemeh	kemej	ADV	_	_	10	mark	_	_
 7	in	in	DET	_	_	8	det	_	_
 8	kaltsin	kali	NOUN	_	Degree=Dim	10	obj	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kichiwa	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	pos	pos	ADV	_	_	15	advmod	_	_
@@ -12958,7 +12958,7 @@
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	kowtatil	koutatil	NOUN	_	Case=Abs	2	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kitahtapana	tajtapana	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	_	Number[iobj]=Sing|Person[iobj]=3|SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	pero	pero	CCONJ	_	_	17	cc	_	_
@@ -12988,7 +12988,7 @@
 9	n'	in	DET	_	_	10	det	_	_
 10	melawak	melahuak	ADJ	_	_	13	obl	_	_
 11	kwaltsin	kuali	ADV	_	_	13	advmod	_	_
-12	se	se	NUM	_	_	13	nsubj	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
 13	kitapana	tapana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -13000,7 +13000,7 @@
 1	Kemasa	kemasa	ADV	_	_	5	advmod	_	_
 2	siquiera	siquiera	ADV	_	_	5	advmod	_	_
 3	nawi	nahui	NUM	_	_	5	obl	_	_
-4	se	se	NUM	_	_	5	obj	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
 5	'kixtia	kixtia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -13068,7 +13068,7 @@
 10	kisas	kisa	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut	8	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	mas	más	ADV	_	_	14	mark	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14	momahtekia	majtekia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	19	advcl	_	Reflexive[obj]=Yes
 15	ihkon	ijkon	ADV	_	_	14	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	_
@@ -13120,7 +13120,7 @@
 2	ne	ne	ADV	_	_	6	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	kansika	kansika	ADV	_	_	2	appos	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 7	ixwa	ixhua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	6	ccomp	_	_
 8	ihkon	ijkon	ADV	_	_	7	advmod	_	SpaceAfter=No
@@ -13266,7 +13266,7 @@
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	porque	porque	SCONJ	_	_	11	mark	_	_
 9	yon	yon	PRON	_	_	11	obj	_	_
-10	se	se	NUM	_	_	11	nsubj	_	_
+10	se	se	PRON	_	_	11	nsubj	_	_
 11	kitsetselowa	tsetselohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	advcl	_	_
 12	wan	huan	CCONJ	_	_	14	cc	_	_
 13	semi	semi	ADV	_	_	14	advmod	_	_
@@ -13285,7 +13285,7 @@
 2	iayo	ayo	NOUN	_	Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 3	no	no	ADV	_	_	4	advmod	_	_
 4	kwali	kuali	ADJ	_	Number[subj]=Sing|Person[subj]=3	0	root	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	tai	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	4	advcl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -13302,7 +13302,7 @@
 3	i...	i	X	_	_	5	reparandum	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	no	no	ADV	_	_	7	advmod	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	tai	tai	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	momanelowa	manelohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	7	parataxis	_	Reflexive[obj]=Yes
@@ -13313,7 +13313,7 @@
 14	n'	in	DET	_	_	15	det	_	_
 15	ichokilo	chokilo	NOUN	_	Number[psor]=Sing|Person[psor]=3	18	obj	_	_
 16	amo	amo	ADV	_	_	18	advmod	_	_
-17	se	se	NUM	_	_	18	nsubj	_	_
+17	se	se	PRON	_	_	18	nsubj	_	_
 18	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	parataxis	_	_
 19	ok	ok	ADV	_	_	18	advmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	_
@@ -13325,10 +13325,10 @@
 26	ichokilo	chokilo	NOUN	_	Number[psor]=Sing|Person[psor]=3	24	nsubj	_	_
 27	wan	huan	CCONJ	_	_	30	cc	_	_
 28	pos	pos	ADV	_	_	30	advmod	_	_
-29	se	se	NUM	_	_	30	nsubj	_	_
+29	se	se	PRON	_	_	30	nsubj	_	_
 30	kita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	24	conj	_	_
 31	porque	porque	SCONJ	_	_	34	mark	_	_
-32	se	se	NUM	_	_	34	nsubj	_	_
+32	se	se	PRON	_	_	34	nsubj	_	_
 33	imako	mako	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	34	obl	_	_
 34	mopepechowa	pepechohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	30	advcl	_	Reflexive[obj]=Yes|SpaceAfter=No
 35	.	.	PUNCT	_	_	7	punct	_	_
@@ -13458,7 +13458,7 @@
 29	o...	o	X	_	_	31	reparandum	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	29	punct	_	_
 31	ox	ox	SCONJ	_	_	33	mark	_	_
-32	se	se	NUM	_	_	33	nsubj	_	_
+32	se	se	PRON	_	_	33	nsubj	_	_
 33	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	7	parataxis	_	_
 34	oso	oso	CCONJ	_	_	36	reparandum	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	34	punct	_	_
@@ -13615,7 +13615,7 @@
 # labels = a192 sentence
 1	Kan	kan	ADV	_	_	4	advmod	_	_
 2	nochi	nochi	PRON	_	_	4	obj	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kimati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -13668,11 +13668,11 @@
 # text[spa] = Sólo se comen los frutos si uno quiere, si no pues ahí se echan a perder en el campo y los animales aprovechan para alimentarse.
 # labels = a222 sentence
 1	Soh	soj	ADV	_	_	3	advmod	_	_
-2	se	se	NUM	_	_	3	nsubj	_	_
+2	se	se	PRON	_	_	3	nsubj	_	_
 3	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 4	sah	saj	ADV	_	_	3	advmod	_	_
 5	komo	komo	ADV	_	_	7	mark	_	_
-6	se	se	NUM	_	_	7	nsubj	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
 7	kineki	neki	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
 9	komo	komo	ADV	_	_	13	mark	_	_
@@ -13768,7 +13768,7 @@
 1	Tikihtowaya	ijtohua	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran	0	root	_	_
 2	que	que	SCONJ	_	_	3	mark	_	_
 3	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	1	ccomp	_	_
-4	se	se	NUM	_	_	3	nsubj	_	_
+4	se	se	PRON	_	_	3	nsubj	_	_
 5	istak	istak	ADJ	_	Number[subj]=Sing|Person[subj]=3	4	acl:relcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	se	se	NUM	_	_	4	conj	_	_
@@ -13816,7 +13816,7 @@
 # labels = a23 sentence
 1	Wan	huan	CCONJ	_	_	4	cc	_	_
 2	ox	ox	SCONJ	_	_	4	mark	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 5	wan	huan	CCONJ	_	_	7	cc	_	_
 6	kani	kani	ADV	_	_	7	advmod	_	_
@@ -14007,11 +14007,11 @@
 6	de	de	ADP	_	_	7	mark	_	_
 7	kwali	kuali	ADJ	_	Number[subj]=Sing|Person[subj]=3	19	advcl	_	_
 8	para	para	SCONJ	_	_	10	mark	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kitekilis	tekilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	7	advcl	_	_
 11	a	a	INTJ	_	_	10	discourse	_	_
 12	komo	komo	ADV	_	_	14	mark	_	_
-13	se	se	NUM	_	_	14	nsubj	_	_
+13	se	se	PRON	_	_	14	nsubj	_	_
 14-15	kitokasneki	_	_	_	_	_	_	_	SpaceAfter=No
 14	kitokas	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	19	advcl	_	_
 15	neki	neki	AUX	_	_	14	aux	_	_
@@ -14043,7 +14043,7 @@
 4	n'	in	DET	_	_	5	det	_	_
 5	iewayo	ehuayo	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	se	se	NUM	_	_	8	nsubj	_	_
+7	se	se	PRON	_	_	8	nsubj	_	_
 8	kimapitsinia	mapitsinia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	_	_
 9	yek	yek	ADV	_	_	10	advmod	_	Incorporated=Yek
 10	pisiltik	pisiltik	ADJ	_	Number[subj]=Sing|Person[subj]=3	3	parataxis	_	_
@@ -14357,10 +14357,10 @@
 2	s...	s	X	_	_	5	reparandum	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	no	no	ADV	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	se	se	NUM	_	_	9	nsubj	_	_
+8	se	se	PRON	_	_	9	nsubj	_	_
 9	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	parataxis	_	_
 10	no	no	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	_
@@ -14419,11 +14419,11 @@
 2	iteyotsin	teyo	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	6	dislocated	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	¿	¿	PUNCT	_	_	6	punct	_	SpaceAfter=No
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
 7	o	o	CCONJ	_	_	10	cc	_	_
 8	teihsa	teisa	PRON	_	_	10	obj	_	_
-9	se	se	NUM	_	_	10	nsubj	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
 10	kichiwilia	chihuilia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	conj	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	6	punct	_	_
 
@@ -14488,7 +14488,7 @@
 2	Wan	huan	CCONJ	_	_	6	cc	_	_
 3	ixochiotsin	xochiot	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	6	obj	_	_
 4	kwali	kuali	ADV	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kaketsa	aketsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	_
 
@@ -14931,7 +14931,7 @@
 # labels = a73 sentence
 1	Kan	kan	ADV	_	_	4	advmod	_	_
 2	wel	hueli	AUX	_	_	4	aux	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kaketsa	aketsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -15467,7 +15467,7 @@
 # labels = a51 sentence
 1	¿	¿	PUNCT	_	_	8	punct	_	SpaceAfter=No
 2	komo	komo	ADV	_	_	4	mark	_	_
-3	se	se	NUM	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	nsubj	_	_
 4	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	8	advcl	_	_
 5-6	kaltsintan	_	_	_	_	_	_	_	_
 5	kal	kali	NOUN	_	_	4	obl	_	_
@@ -15846,7 +15846,7 @@
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ompa	ompa	ADV	_	_	6	advmod	_	_
 4	ya	ya	ADV	_	_	6	advmod	_	_
-5	se	se	NUM	_	_	6	nsubj	_	_
+5	se	se	PRON	_	_	6	nsubj	_	_
 6	kikwi	kui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
