@@ -1,3 +1,250 @@
+# sent_id = example_sentences:0
+# text = Amo moyekohua ok.
+# text[spa] = No se prueba.
+1	Amo	amo	ADV	_	_	2	advmod	_	_
+2	moyekohua	ohhua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
+3	ok	ok	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:1
+# text = Kuali etok!
+# text[spa] = ¡Está bien!
+1	Kuali	kuali	ADV	_	_	0	root	_	_
+2	etok	etok	AUX	_	Number[subj]=Sing|Person[subj]=3	1	cop	_	SpaceAfter=No
+3	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:2
+# text = Kani tiyaskej?
+# text[spa] = ¿Dónde vamos?
+1	Kani	kani	ADV	_	_	2	advmod	_	_
+2	tiyaskej	tiyas	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:3
+# text = Ponyo!
+# text[spa] = ¡Ahí voy!
+1	Ponyo	ponyo	VERB	_	_	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:4
+# text = Moixpantsinko!
+# text[spa] = ¡Con permiso!
+1	Moixpantsinko	ixpan	NOUN	_	NounType=Relat	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:5
+# text = Mohuantsin!
+# text[spa] = ¡Adiós!
+1	Mohuantsin	huan	NOUN	_	Degree=Dim	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:6
+# text = Mohuantsinko!
+# text[spa] = ¡Adiós!
+1	Mohuantsinko	huan	NOUN	_	NounType=Relat	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:7
+# text = Namohuantsin!
+# text[spa] = ¡Adiós!
+1	Namohuantsin	huan	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:8
+# text = Namohuantsinko!
+# text[spa] = ¡Adiós!
+1	Namohuantsinko	huan	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:9
+# text = Mota kisati in tonaltsin.
+# text[spa] = Se ve que va a salir el sol.
+1	Mota	ita	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
+2	kisati	sati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	csubj	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	tonaltsin	tonal	NOUN	_	Degree=Dim	2	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:10
+# text = Nikochisneki.
+# text[spa] = Quiero dormir.
+1	Nikochisneki	nikochisneki	VERB	_	Animacy[obj]=Hum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:11
+# text = Amo niyekkochik tiotak.
+# text[spa] = No dormí bien anoche.
+1	Amo	amo	ADV	_	_	2	advmod	_	_
+2	niyekkochik	kochi	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	0	root	_	_
+3	tiotak	tiotak	ADV	_	Number[subj]=Sing|Person[subj]=3	2	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:12
+# text = Nimitsonixpolohua.
+# text[spa] = Le extraño a usted.
+1	Nimitsonixpolohua	ixpolohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:13
+# text = Ne nimoskalti ihuan nochanka huan nipajki.
+# text[spa] = Yo nací con mis padres y estoy feliz.
+1	Ne	ne	PRON	_	_	2	nsubj	_	_
+2	nimoskalti	moskaltia	VERB	_	Movement=And|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	_
+3	ihuan	huan	NOUN	_	_	2	obl	_	_
+4	nochanka	nochank	NOUN	_	_	3	nmod	_	_
+5	huan	hhuan	CCONJ	_	_	2	cc	_	_
+6	nipajki	nipajki	PUNCT	_	_	2	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:14
+# text = Nimitspalehuia?
+# text[spa] = Te puedo ayudar?
+1	Nimitspalehuia	palehuia	VERB	_	Animacy[obj]=Hum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:15
+# text = Nimitspalehuis?
+# text[spa] = Te podré ayudar?
+1	Nimitspalehuis	palehuia	VERB	_	Animacy[obj]=Nhum|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:16
+# text = Ne notokay Pedro.
+# text[spa] = Mi nombre es Pedro.
+1	Ne	nehua	PRON	_	_	2	nmod	_	_
+2	notokay	tokait	NOUN	_	_	3	nsubj	_	_
+3	Pedro	pedro	PROPN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = example_sentences:17
+# text = Te motokay Valeria.
+# text[spa] = Tu nombre es Valeria.
+1	Te	tehua	PRON	_	_	2	nmod	_	_
+2	motokay	tokait	NOUN	_	_	3	nsubj	_	_
+3	Valeria	valeria	PROPN	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = example_sentences:18
+# text = Yehua itokay Felipe.
+# text[spa] = Su nombre es Felipe.
+1	Yehua	yehua	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+2	itokay	tokait	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	Felipe	felipe	PROPN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = example_sentences:19
+# text = Keni motokay?
+# text[spa] = Cuál es tu nombre?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	motokay	tokait	NOUN	_	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:20
+# text = Sekin nechtokaytia Pancho.
+# text[spa] = Algunos me llaman Pancho.
+1	Sekin	seki	PRON	_	_	2	nsubj	_	_
+2	nechtokaytia	tokaitia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
+3	Pancho	Pancho	PROPN	_	_	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:21
+# text = Nikuilita ma nechtokaytikan Roberto.
+# text[spa] = Me gusta que me llamen Roberto.
+1	Nikuilita	kuilita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	_	_
+2	ma	ma	AUX	_	_	3	aux	_	_
+3	nechtokaytikan	tokaitia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	1	ccomp	_	_
+4	Roberto	roberto	PROPN	_	_	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:22
+# text = Yehua keni nitokay?
+# text[spa] = Él cuál es su nombre?
+1	Yehua	yehua	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	keni	keni	ADV	_	_	0	root	_	_
+3	nitokay	nitokay	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:23
+# text = Ne tepet nitokay Zotolo.
+1	Ne	ne	DET	_	_	2	det	_	_
+2	tepet	tepet	NOUN	_	Case=Abs	3	nmod	_	_
+3	nitokay	tokait	NOUN	_	_	4	nsubj	_	_
+4	Zotolo	zotolo	PROPN	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = example_sentences:24
+# text = Keni monotsa moaltepe?
+# text[spa] = Cómo se llama tu pueblo?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	monotsa	monotsa	VERB	_	_	0	root	_	_
+3	moaltepe	altepet	NOUN	_	Case=Abs	2	nsubj	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = example_sentences:25
+# text = Keni itokay moaltepe?
+# text[spa] = Cúal es el nombre de tu pueblo?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	itokay	tokait	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	moaltepe	altepet	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = example_sentences:26
+# text = Nijin altepet itokay Tetela.
+# text[spa] = Este pueblo se llama Tetela.
+1	Nijin	nijin	DET	_	_	2	det	_	_
+2	altepet	altepet	NOUN	_	_	3	nmod	_	_
+3	itokay	tokait	NOUN	_	Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
+4	Tetela	tetela	PROPN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = example_sentences:27
+# text = Nijin xihuit nitokay mikexihuit.
+# text[spa] = Esta hierba se llama romero.
+1	Nijin	nijin	DET	_	_	2	det	_	_
+2	xihuit	xihuit	NOUN	_	Case=Abs	3	nmod	_	_
+3	nitokay	tokait	NOUN	_	_	4	nsubj	_	_
+4	mikexihuit	mihkexihuit	NOUN	_	Case=Abs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = example_sentences:28
+# text = Amo nikmati.
+# text[spa] = No sé.
+1	Amo	amo	ADV	_	_	2	advmod	_	_
+2	nikmati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:29
+# text = Nikuilita nikochis.
+# text[spa] = Quiero dormir.
+1	Nikuilita	uilita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	_	_
+2	nikochis	kochi	VERB	_	Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Fut	1	ccomp	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = example_sentences:30
+# text = Keni mitsonkahua in sejsek?
+# text[spa] = Cómo le deja el frío?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	mitsonkahua	kahua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	sejsek	sejsek	NOUN	_	_	2	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:31
+# text = Keni mitsonkahua in totonik?
+# text[spa] = Cómo le deja el calor?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	mitsonkahua	kahua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	totonik	totonik	NOUN	_	_	2	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = example_sentences:32
+# text = Keni nanmontiotaki?
+# text[spa] = Cómo entardecen?
+1	Keni	keni	ADV	_	_	2	advmod	_	_
+2	nanmontiotaki	tiotaki	VERB	_	Movement=And|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
 # sent_id = Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a69
 # text = Yehwa yon neh nikahsikamatisnekia.
 # text[orig] = Yehwa yo:n neh nikahsika:matisnekia.
@@ -14640,7 +14887,7 @@
 5	tikihtowa	ijtohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	0	root	_	_
 6	yowi	yohui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	9	reparandum	_	_
 7	we...	we	X	_	_	10	reparandum	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
 9	yowi	yohui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	ccomp	_	_
 10	wehkapan	huejkapan	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	?	?	PUNCT	_	_	5	punct	_	_
