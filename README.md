@@ -1,6 +1,9 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+
+UD_Highland_Puebla_Nahuatl-ITML is a collection of texts in the Highland Puebla variety of Nahuatl (ISO-639: `azz`) spoken in 24 municipalities
+in the state of Mexico in Puebla. The treebank contains spoken monologue and dialogue, scientific texts translated from Spanish and some miscellaneous
+grammatical examples from a language course.
 
 
 # Introduction
@@ -8,9 +11,17 @@
 ...
 
 
-# Acknowledgments
+# Acknowledgements
 
-...
+We would like to thank the following for giving permission to use their sentences.
+* Jonathan Amith 
+* Pedro Rivera Gómez
+* Patricia Aguilar Romero
+* Sociedad Méxicana de Física
+
+And we would like to thank the following for assistance in the annotation and validation process:
+* Mitsuya Sasaki
+
 
 ## References
 
@@ -19,22 +30,22 @@
 
 # Changelog
 
-* 2023-05-15 v2.12
+* 2023-11-15 v2.12
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.12
+Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: spoken fiction grammar-examples nonfiction
+Genre: spoken grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Pugh, Robert; Huerta Mendez, Marivel; Sasaki, Mitsuya; Tyers, Francis
+Contributors: Pugh, Robert; Tyers, Francis
 Contributing: here
 Contact: pughrob@iu.edu
 ===============================================================================
