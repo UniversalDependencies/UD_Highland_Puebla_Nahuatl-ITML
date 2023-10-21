@@ -8,7 +8,7 @@
 ...
 
 
-# Acknowledgments
+# Acknowledgements
 
 ...
 
@@ -19,22 +19,22 @@
 
 # Changelog
 
-* 2023-05-15 v2.12
+* 2023-11-15 v2.12
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.12
+Data available since: 
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: spoken fiction grammar-examples nonfiction
+Genre: spoken grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Pugh, Robert; Huerta Mendez, Marivel; Sasaki, Mitsuya; Tyers, Francis
+Contributors: Pugh, Robert; Sasaki, Mitsuya; Tyers, Francis
 Contributing: here
 Contact: pughrob@iu.edu
 ===============================================================================
