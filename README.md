@@ -36,6 +36,7 @@ And we would like to thank the following for assistance in the annotation and va
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
+Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: spoken grammar-examples nonfiction
