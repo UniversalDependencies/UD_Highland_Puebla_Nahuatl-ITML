@@ -25,7 +25,6 @@
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: 
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: spoken grammar-examples nonfiction
