@@ -14,7 +14,7 @@ grammatical examples from a language course.
 # Acknowledgements
 
 We would like to thank the following for giving permission to use their sentences.
-* Jonathan Amith 
+* Jonathan Amith
 * Pedro Rivera Gómez
 * Patricia Aguilar Romero
 * Sociedad Méxicana de Física
@@ -30,13 +30,13 @@ And we would like to thank the following for assistance in the annotation and va
 
 # Changelog
 
-* 2023-11-15 v2.12
+* 2023-11-15 v2.13
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.14
+Data available since: UD v2.13
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: spoken grammar-examples nonfiction
