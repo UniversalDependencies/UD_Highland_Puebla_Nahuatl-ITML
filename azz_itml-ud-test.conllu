@@ -725,7 +725,7 @@
 5	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,
 6	ninemi	nemi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=ninemi
 7	nikan	nikan	ADV	_	_	6	advmod	6:advmod	NormalizedForm=nikan
-8	Chilkwowtah	Chilkuoutaj	PROPN	_	_	7	appos	7:appos	NormalizedForm=Chilkwowtah|SpaceAfter=No
+8	Chilkwowtah	Chilkuoutaj	PROPN	_	_	7	obl	7:obl	NormalizedForm=Chilkwowtah|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Chilc_Botan_RMM302_tsonsasa-Tiliaceae_2011-07-14-d_ed-2020-01-02_Trad-ADA_FORM.eaf:a39
@@ -2355,8 +2355,8 @@
 1	Mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Mochiwa|Reflexive[obj]=Yes
 2	ne	ne	ADV	_	_	1	advmod	1:advmod	NormalizedForm=ne
 3-4	Kalikampa	_	_	_	_	_	_	_	NormalizedForm=Kalikampa|SpaceAfter=No
-3	Kali	Kalikan	PROPN	_	_	4	nmod	4:nmod	NormalizedForm=Kali
-4	kampa	kampa	NOUN	_	NounType=Relat	2	appos	2:appos	NormalizedForm=kampa
+3	Kalikam	Kalikan	PROPN	_	_	4	nmod	4:nmod	NormalizedForm=Kali
+4	pa	pan	NOUN	_	NounType=Relat	2	obl	2:obl	NormalizedForm=kampa
 5	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,
 6	Texayakatitan	Texayakatitan	PROPN	_	_	4	conj	4:conj	NormalizedForm=Texayakatitan|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,
@@ -2410,7 +2410,7 @@
 2	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 3	ompa	ompa	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ompa
 4	ne	ne	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ne
-5	Kuesalan	Cuetzalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Kwesalan|SpaceAfter=No
+5	Kuesalan	Cuetzalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Kwesalan|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:12
@@ -2862,7 +2862,7 @@
 # text[spa] = Para abajo en Ayotzinapan, Xaltipan, se dan grandes las mazorcas y las cañas crecen más altas, como de tres metros.
 # labels = sentence
 1	Paratani	paratani	ADV	_	_	8	advmod	8:advmod	NormalizedForm=Paratani
-2	Ayotzinapan	Ayotzinapan	PROPN	_	_	1	appos	1:appos	NormalizedForm=Ayotsinapan|SpaceAfter=No
+2	Ayotzinapan	Ayotzinapan	PROPN	_	_	1	obl	1:obl	NormalizedForm=Ayotsinapan|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,
 4	Xaltipan	Xaltipan	PROPN	_	_	2	conj	2:conj	NormalizedForm=Xaltipan
 5	kachi	kachi	DET	_	_	7	det	7:det	NormalizedForm=kachi
@@ -3126,7 +3126,7 @@
 8	ne	ne	ADV	_	_	7	advmod	7:advmod	NormalizedForm=ne
 9-10	Tonalixkopa	_	_	_	_	_	_	_	NormalizedForm=Tonalixkopa|SpaceAfter=No
 9	Tonalix	Tonalix	PROPN	_	_	10	nmod	10:nmod	NormalizedForm=Tonalix
-10	kopa	kopa	NOUN	_	NounType=Relat	8	appos	8:appos	NormalizedForm=kopa
+10	kopa	kopa	NOUN	_	NounType=Relat	8	obl	8:obl	NormalizedForm=kopa
 11	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:74:1
@@ -3237,7 +3237,7 @@
 2	kipiyayaj	piya	VERB	_	Aspect=Imp|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	0:root	NormalizedForm=kipiyayah
 3	se	se	PRON	_	_	2	obj	2:obj	NormalizedForm=se
 4	ne	ne	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ne
-5	Ataujtsalan	Ataujtsalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Atautsalan|SpaceAfter=No
+5	Ataujtsalan	Ataujtsalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Atautsalan|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:74:13
@@ -3369,7 +3369,7 @@
 7	ajkokopa	ajkokopa	ADV	_	_	5	advmod	5:advmod	NormalizedForm=ahkokopa
 8	uan	huan	CCONJ	_	_	9	cc	9:cc	NormalizedForm=wan
 9	neuín	nehuin	ADV	_	_	7	advmod	7:advmod	NormalizedForm=newín
-10	Atepoliui	Atepoliui	PROPN	_	_	9	appos	9:appos	NormalizedForm=Atepoliwi|SpaceAfter=No
+10	Atepoliui	Atepoliui	PROPN	_	_	9	obl	9:obl	NormalizedForm=Atepoliwi|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:85
@@ -3640,7 +3640,7 @@
 4	ne	ne	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ne
 5-6	Atpoliuikopa	_	_	_	_	_	_	_	NormalizedForm=Atpoliwikopa|SpaceAfter=No
 5	Atpoliui	Atpolihui	PROPN	_	_	6	nmod	6:nmod	NormalizedForm=Atpoliwi
-6	kopa	kopa	NOUN	_	NounType=Relat	4	appos	4:appos	NormalizedForm=kopa
+6	kopa	kopa	NOUN	_	NounType=Relat	4	obl	4:obl	NormalizedForm=kopa
 7	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:111
@@ -3827,7 +3827,7 @@
 # labels = sentence
 1	Mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Mochiwa|Reflexive[obj]=Yes
 2	neuín	nehuin	ADV	_	_	1	advmod	1:advmod	NormalizedForm=newín
-3	parajko	parajko	NOUN	_	Case=Abs	2	appos	2:appos	NormalizedForm=parahko|SpaceAfter=No
+3	parajko	parajko	ADV	_	_	2	appos	2:appos	NormalizedForm=parahko|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:125
@@ -3852,7 +3852,7 @@
 4	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,
 5	nikan	nikan	ADV	_	_	1	advmod	1:advmod	NormalizedForm=nikan
 6	in	in	DET	_	_	7	det	7:det	NormalizedForm=in
-7	ixtauat	ixtahuat	NOUN	_	Case=Abs	5	appos	5:appos	NormalizedForm=ixtawat|SpaceAfter=No
+7	ixtauat	ixtahuat	NOUN	_	Case=Abs	5	obl	5:obl	NormalizedForm=ixtawat|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:128
@@ -3913,7 +3913,7 @@
 8	neuín	nehuin	ADV	_	_	2	advmod	2:advmod	NormalizedForm=newín
 9-10	Xaltepekopa	_	_	_	_	_	_	_	NormalizedForm=Xaltepekopa|SpaceAfter=No
 9	Xaltepe	Xaltepek	PROPN	_	_	10	nmod	10:nmod	NormalizedForm=Xaltepe
-10	kopa	kopa	NOUN	_	NounType=Relat	8	appos	8:appos	NormalizedForm=kopa
+10	kopa	kopa	NOUN	_	NounType=Relat	8	obl	8:obl	NormalizedForm=kopa
 11	,	,	PUNCT	_	_	13	punct	13:punct	NormalizedForm=,
 12	no	no	ADV	_	_	13	advmod	13:advmod	NormalizedForm=no
 13	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=mochiwa|Reflexive[obj]=Yes
@@ -4259,7 +4259,7 @@
 2	nikan	nikan	ADV	_	_	1	advmod	1:advmod	NormalizedForm=nikan
 3-4	Atmolonkopa	_	_	_	_	_	_	_	NormalizedForm=Atmolonkopa|SpaceAfter=No
 3	Atmolon	Atmolon	PROPN	_	_	4	nmod	4:nmod	NormalizedForm=Atmolon
-4	kopa	kopa	NOUN	_	NounType=Relat	2	appos	2:appos	NormalizedForm=kopa
+4	kopa	kopa	NOUN	_	NounType=Relat	2	obl	2:obl	NormalizedForm=kopa
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6-7	Tonalixkopa	_	_	_	_	_	_	_	NormalizedForm=Tonalixkopa|SpaceAfter=No
 6	Tonalix	Tonalix	PROPN	_	_	7	nmod	7:nmod	NormalizedForm=Tonalix
@@ -4268,7 +4268,7 @@
 9	Tekoltepek	Tekoltepek	PROPN	_	_	4	conj	4:conj	NormalizedForm=Tekoltepek
 10	uan	huan	CCONJ	_	_	15	cc	15:cc	NormalizedForm=wan
 11	ne	ne	ADV	_	_	15	advmod	15:advmod	NormalizedForm=ne
-12	Santiago	Santiago	PROPN	_	Gender=Masc	11	appos	11:appos	NormalizedForm=Santiago
+12	Santiago	Santiago	PROPN	_	Gender=Masc	11	obl	11:obl	NormalizedForm=Santiago
 13	Yankuitlalpan	Yankuitlalpan	PROPN	_	_	12	flat	12:flat	NormalizedForm=Yankwitlalpan
 14	no	no	ADV	_	_	15	advmod	15:advmod	NormalizedForm=no
 15	onkak	onka	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	1	conj	1:conj	NormalizedForm=onkak|SpaceAfter=No
@@ -4756,7 +4756,7 @@
 2	semi	semi	ADV	_	_	3	advmod	3:advmod	NormalizedForm=semi
 3	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 4	ne	ne	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ne
-5	Kuesalan	Cuetzalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Kwesalan|SpaceAfter=No
+5	Kuesalan	Cuetzalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Kwesalan|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:209
@@ -6075,7 +6075,7 @@
 2	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 3	nikan	nikan	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikan
 4	paratani	paratani	ADV	_	_	2	advmod	2:advmod	NormalizedForm=paratani
-5	Tekuantepek	Tekuantepek	PROPN	_	_	4	appos	4:appos	NormalizedForm=Tekwantepek|SpaceAfter=No
+5	Tekuantepek	Tekuantepek	PROPN	_	_	4	obl	4:obl	NormalizedForm=Tekwantepek|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:325
@@ -6126,7 +6126,7 @@
 # text[spa] = Por Tonalix se da mucho.
 # labels = sentence
 1	Ampón	ampon	ADV	_	_	3	advmod	3:advmod	NormalizedForm=Ampón
-2	Tonalix	Tonalix	PROPN	_	_	1	appos	1:appos	NormalizedForm=Tonalix
+2	Tonalix	Tonalix	PROPN	_	_	1	obl	1:obl	NormalizedForm=Tonalix
 3	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 4	miak	miak	ADV	_	_	3	advmod	3:advmod	NormalizedForm=miak|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
@@ -6889,7 +6889,7 @@
 2	no	no	ADV	_	_	3	advmod	3:advmod	NormalizedForm=no
 3	monamaka	namaka	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Number[iobj]=Sing|Person[iobj]=3|Reflexive[obj]=Yes
 4	ne	ne	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ne
-5	Sakapoastan	Sakapoastan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Sakapoastan|SpaceAfter=No
+5	Sakapoastan	Sakapoastan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Sakapoastan|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:428
@@ -6968,7 +6968,7 @@
 1	In	in	DET	_	_	2	dep	2:dep	NormalizedForm=In
 2	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 3	neuín	nehuin	ADV	_	_	2	advmod	2:advmod	NormalizedForm=newín
-4	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	3	appos	3:appos	NormalizedForm=kwoutah|SpaceAfter=No
+4	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	3	obl	3:obl	NormalizedForm=kwoutah|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:440
@@ -7294,7 +7294,7 @@
 2	no	no	ADV	_	_	3	advmod	3:advmod	NormalizedForm=no
 3	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 4	ne	ne	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ne
-5	Kuetsalan	Kuetsalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Kwetsalan|SpaceAfter=No
+5	Kuetsalan	Kuetsalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Kwetsalan|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:488
@@ -7461,7 +7461,7 @@
 3	semi	semi	ADV	_	_	4	advmod	4:advmod	NormalizedForm=semi
 4	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 5	ne	ne	ADV	_	_	4	advmod	4:advmod	NormalizedForm=ne
-6	Kuesalan	Cuetzalan	PROPN	_	_	5	appos	5:appos	NormalizedForm=Kwesalan|SpaceAfter=No
+6	Kuesalan	Cuetzalan	PROPN	_	_	5	obl	5:obl	NormalizedForm=Kwesalan|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:520
@@ -7980,7 +7980,7 @@
 3	tamanal	tamanal	ADJ	_	_	2	xcomp	2:xcomp	NormalizedForm=tamanal
 4	ya	ya	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ya
 5	ne	ne	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ne
-6	Kuesalan	Cuetzalan	PROPN	_	_	5	appos	5:appos	NormalizedForm=Kwesalan|SpaceAfter=No
+6	Kuesalan	Cuetzalan	PROPN	_	_	5	obl	5:obl	NormalizedForm=Kwesalan|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:708
@@ -8990,7 +8990,7 @@
 1	Se	se	PRON	_	_	2	nsubj	2:nsubj	NormalizedForm=Se
 2	kitoka	toka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitoka
 3	neuín	nehuin	ADV	_	_	2	advmod	2:advmod	NormalizedForm=newín
-4	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	3	appos	3:appos	NormalizedForm=kwoutah|SpaceAfter=No
+4	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	3	obl	3:obl	NormalizedForm=kwoutah|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,
 6	moajokui	ajokui	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=moahokwi|Reflexive[obj]=Yes
 7	saj	saj	ADV	_	_	6	advmod	6:advmod	NormalizedForm=sah
@@ -9167,7 +9167,7 @@
 2	itakilo	takilot	NOUN	_	Number[psor]=Sing|Person[psor]=3	3	nsubj	3:nsubj	NormalizedForm=itakilo
 3	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 4	ne	ne	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ne
-5	Kuesalan	Cuetzalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Kwesalan|SpaceAfter=No
+5	Kuesalan	Cuetzalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Kwesalan|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:1458
@@ -9525,7 +9525,7 @@
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6-7	xolalpan	_	_	_	_	_	_	_	NormalizedForm=xolalpan|SpaceAfter=No
 6	xolal	xolal	NOUN	_	_	7	nmod	7:nmod	NormalizedForm=xolal
-7	pan	pan	NOUN	_	NounType=Relat	4	appos	4:appos	NormalizedForm=pan|Incorporated=Pan
+7	pan	pan	NOUN	_	NounType=Relat	4	obl	4:obl	NormalizedForm=pan|Incorporated=Pan
 8	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:1511:2
@@ -9911,7 +9911,7 @@
 7	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	5	parataxis	5:parataxis	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 8	ne	ne	ADV	_	_	7	advmod	7:advmod	NormalizedForm=ne
 9	ueyi	huei	ADJ	_	_	10	amod	10:amod	NormalizedForm=weyi
-10	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	8	appos	8:appos	NormalizedForm=kwoutah|SpaceAfter=No
+10	kuoujtaj	kuoutaj	NOUN	_	Case=Abs	8	obl	8:obl	NormalizedForm=kwoutah|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:1562
@@ -10345,7 +10345,7 @@
 2	ne	ne	ADV	_	_	1	advmod	1:advmod	NormalizedForm=ne
 3-4	Tonalixkopa	_	_	_	_	_	_	_	NormalizedForm=Tonalixkopa|SpaceAfter=No
 3	Tonalix	Tonalix	PROPN	_	_	4	nmod	4:nmod	NormalizedForm=Tonalix
-4	kopa	kopa	NOUN	_	NounType=Relat	2	appos	2:appos	NormalizedForm=kopa
+4	kopa	kopa	NOUN	_	NounType=Relat	2	obl	2:obl	NormalizedForm=kopa
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6-7	Tatampakopa	_	_	_	_	_	_	_	NormalizedForm=Tatampakopa
 6	Tatampa	Tatampa	PROPN	_	_	7	nmod	7:nmod	NormalizedForm=Tatampa
@@ -10354,7 +10354,7 @@
 9	ne	ne	ADV	_	_	2	conj	2:conj	NormalizedForm=ne
 10-11	Xaltipampa	_	_	_	_	_	_	_	NormalizedForm=Xaltipampa|SpaceAfter=No
 10	Xaltipam	Xaltipan	PROPN	_	_	11	nmod	11:nmod	NormalizedForm=Xaltipam
-11	pa	pampa	NOUN	_	NounType=Relat	9	appos	9:appos	NormalizedForm=pa
+11	pa	pampa	NOUN	_	NounType=Relat	9	obl	9:obl	NormalizedForm=pa
 12	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:1610
@@ -11323,7 +11323,7 @@
 6	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 7	niwalew	hualeu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=niwalew
 8	ne	ne	ADV	_	_	7	advmod	7:advmod	NormalizedForm=ne
-9	Tecoltepec	Tecoltepec	PROPN	_	_	8	appos	8:appos	NormalizedForm=Tekoltepek|SpaceAfter=No
+9	Tecoltepec	Tecoltepec	PROPN	_	_	8	obl	8:obl	NormalizedForm=Tekoltepek|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 # sent_id = Tecol_Botan_LOS358-CGN309_tiookowit-Meliaceae_2012-07-31-m_ed-2017-04-24_trad-ADA_FORM.eaf:a182
@@ -11788,7 +11788,7 @@
 # text[gloss] = Allá en el bosque, pues ese que este, nosotros también le decimos igual que al otro, ahmolkilit.
 # labels = a12 sentence come-back-to
 1	Ne	ne	ADV	_	_	5	advmod	5:advmod	NormalizedForm=Ne
-2	kwowtah	kuoutaj	NOUN	_	Case=Abs	1	appos	1:appos	NormalizedForm=kwowtah|SpaceAfter=No
+2	kwowtah	kuoutaj	NOUN	_	Case=Abs	1	obl	1:obl	NormalizedForm=kwowtah|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	1:punct	NormalizedForm=,
 4	pos	pos	ADV	_	_	5	advmod	5:advmod	NormalizedForm=pos
 5	yon	yon	PRON	_	_	10	dislocated	10:dislocated	NormalizedForm=yon
@@ -12410,7 +12410,7 @@
 3	ne	ne	ADV	_	_	1	advmod	1:advmod	NormalizedForm=ne
 4-5	xolalpan	_	_	_	_	_	_	_	NormalizedForm=xolalpan
 4	xolal	xolal	NOUN	_	_	5	nmod	5:nmod	NormalizedForm=xolal
-5	pan	pan	NOUN	_	NounType=Relat	3	appos	3:appos	NormalizedForm=pan|Incorporated=Pan
+5	pan	pan	NOUN	_	NounType=Relat	3	obl	3:obl	NormalizedForm=pan|Incorporated=Pan
 6	de	de	ADP	_	_	7	case	7:case	NormalizedForm=de
 7	San	San	PROPN	_	_	3	appos	3:appos	NormalizedForm=San
 8	Miguel	Miguel	PROPN	_	Gender=Masc	7	flat	7:flat	NormalizedForm=Migwel
@@ -13380,7 +13380,7 @@
 1	Pos	pos	ADV	_	_	6	advmod	6:advmod	NormalizedForm=Pos
 2	ne	ne	ADV	_	_	6	advmod	6:advmod	NormalizedForm=ne|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,
-4	kansika	kansika	ADV	_	_	2	appos	2:appos	NormalizedForm=kansika
+4	kansika	kansika	ADV	_	_	2	obl	2:obl	NormalizedForm=kansika
 5	se	se	PRON	_	_	6	nsubj	6:nsubj	NormalizedForm=se
 6	kita	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kita
 7	ixwa	ixhua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	6	ccomp	6:ccomp	NormalizedForm=ixwa
@@ -13672,7 +13672,7 @@
 9	de	de	ADP	_	_	10	case	10:case	NormalizedForm=de
 10	xolal	xolal	NOUN	_	Case=Abs	16	obl	16:obl	NormalizedForm=xolal
 11	nikan	nikan	ADV	_	_	10	advmod	10:advmod	NormalizedForm=nikan
-12	San	San	PROPN	_	_	11	appos	11:appos	NormalizedForm=San
+12	San	San	PROPN	_	_	11	obl	11:obl	NormalizedForm=San
 13	Miguel	Miguel	PROPN	_	Gender=Masc	12	flat	12:flat	NormalizedForm=Migwel
 14	Tzinacapan	Tzinacapan	PROPN	_	_	12	flat	12:flat	NormalizedForm=Tsinakapan
 15	no	no	ADV	_	_	16	advmod	16:advmod	NormalizedForm=no
@@ -16153,7 +16153,7 @@
 5	ne	nehua	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	NormalizedForm=ne
 6	niwalewa	huala	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=niwalewa
 7	ne	ne	ADV	_	_	6	advmod	6:advmod	NormalizedForm=ne
-8	Xalpantzingo	Xalpantzingo	PROPN	_	_	7	appos	7:appos	NormalizedForm=Xalpantsingo|SpaceAfter=No
+8	Xalpantzingo	Xalpantzingo	PROPN	_	_	7	obl	7:obl	NormalizedForm=Xalpantsingo|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.
 
 # sent_id = Xalpn_Botan_CVH329_siitaltomat-Solanaceae_2011-07-21-e_ed-2020-01-31_Trad-HSO_FORM.eaf:a145
@@ -16228,7 +16228,7 @@
 2	wan	huan	CCONJ	_	_	6	cc	6:cc	NormalizedForm=wan
 3	pos	pos	ADV	_	_	6	advmod	6:advmod	NormalizedForm=pos
 4	nikan	nikan	ADV	_	_	6	advmod	6:advmod	NormalizedForm=nikan
-5	Kwesalan	Cuetzalan	PROPN	_	_	4	appos	4:appos	NormalizedForm=Kwesalan
+5	Kwesalan	Cuetzalan	PROPN	_	_	4	obl	4:obl	NormalizedForm=Kwesalan
 6	tikitah	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=tikitah|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,
 8	este	este	INTJ	_	_	6	discourse	6:discourse	NormalizedForm=este|SpaceAfter=No
@@ -16274,7 +16274,7 @@
 7	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,
 8	niwalewa	huala	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Pres|VerbForm=Fin	5	parataxis	5:parataxis	NormalizedForm=niwalewa
 9	nikan	nikan	ADV	_	_	8	advmod	8:advmod	NormalizedForm=nikan
-10	San	San	PROPN	_	_	9	appos	9:appos	NormalizedForm=San
+10	San	San	PROPN	_	_	9	obl	9:obl	NormalizedForm=San
 11	Miguel	Miguel	PROPN	_	Gender=Masc	10	flat	10:flat	NormalizedForm=Migwel|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.
 
@@ -16847,7 +16847,7 @@
 10	nikayot	kayot	NOUN	_	Case=Abs|Number[subj]=Sing|Person[subj]=1	6	parataxis	6:parataxis	NormalizedForm=nikayot
 11	ompa	ompa	ADV	_	_	10	advmod	10:advmod	NormalizedForm=ompa
 12	ne	ne	ADV	_	_	10	advmod	10:advmod	NormalizedForm=ne
-13	Xaltipan	Xaltipan	PROPN	_	_	12	appos	12:appos	NormalizedForm=Xaltipan|SpaceAfter=No
+13	Xaltipan	Xaltipan	PROPN	_	_	12	obl	12:obl	NormalizedForm=Xaltipan|SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.
 
 # sent_id = Yohua_Botan_MJT354_tahkuiloolkowit-Bombacaceae_2012-07-20-n_ed-2018-04-02_trad-ADA_FORM.eaf:a25
