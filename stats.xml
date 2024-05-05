@@ -11,13 +11,13 @@
     <test><sentences>1260</sentences><tokens>10018</tokens><words>10088</words><fused>70</fused></test>
   </size>
   <lemmas unique="1345" /><!-- ., ,, in, se, huan, chihua, amo, no, kemaj, kua, tein, ka, ne, onka, tech -->
-  <forms unique="1880" /><!-- ., ,, se, in, uan, amo, no, mochiua, kemah, wan, ne, itech, ika, n', onkak -->
+  <forms unique="1881" /><!-- ., ,, se, in, uan, amo, no, mochiua, kemah, wan, ne, itech, ika, n', onkak -->
   <fusions unique="45" /><!-- kaltsintan, kuoujijtik, Tonalixkopa, Kalikampa, imaikan, imatampa, kajfentenoj, koyokopa, kuouijtik, ojtenoj, talixko, xolalpan, Atmolonkopa, Atpoliuikopa, Tatampakopa -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">424</tag><!-- kuali, huelik, sesek, istak, totonik, tsiki, chijchiltik, huei, huejhuei, morado -->
     <tag name="ADP">201</tag><!-- de, por, kemej, para, hasta, a -->
-    <tag name="ADV">1367</tag><!-- amo, no, kampa, ya, semi, saj, pos, ne, iuki, ijkon -->
+    <tag name="ADV">1368</tag><!-- amo, no, kampa, ya, semi, saj, pos, ne, iuki, ijkon -->
     <tag name="AUX">119</tag><!-- ma, hueli, etok, neki, huetsi, nemi -->
     <tag name="CCONJ">462</tag><!-- huan, oso, pero, y, o, hhuan -->
     <tag name="DET">493</tag><!-- in, se, ne, miak, nejin, okse, nochi, nijin, yon, seki -->
@@ -28,24 +28,26 @@
     <tag name="PROPN">201</tag><!-- Cuetzalan, Miguel, San, María, Tzinacapan, Centauri, Próxima, Osollo, Salazar, Tonalix -->
     <tag name="PUNCT">2068</tag><!-- ., ,, :, ?, ¿, ..., (, ), !, ; -->
     <tag name="SCONJ">153</tag><!-- porque, ijhuak, para, ox, que, ke, in, cuando, maski, ijkuak -->
-    <tag name="VERB">1626</tag><!-- chihua, kua, onka, ita, toka, namaka, xochiyohua, kualtia, mati, notsa -->
+    <tag name="VERB">1625</tag><!-- chihua, kua, onka, ita, toka, namaka, xochiyohua, kualtia, mati, notsa -->
     <tag name="X">98</tag><!-- ki, i, X, s, _, B, nik, k, mo, o -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="44">
+  <feats unique="47">
     <feat name="Animacy[obj]" value="Hum" upos="VERB">15</feat><!-- tekokoj, tekwi, tenamiki, Nikochisneki, Nimitspalehuia, kitemaka, tekekeloua, tekixtiliah, tekui, tepahtia -->
-    <feat name="Animacy[obj]" value="Nhum" upos="VERB">20</feat><!-- tapepechowah, takua, Kitatemolia, Nimitspalehuis, kitachipauis, tachijchiua, takauani, tamatemouaj, tamatis, tameuj -->
+    <feat name="Animacy[obj]" value="Nhum" upos="VERB">19</feat><!-- tapepechowah, takua, Kitatemolia, kitachipauis, tachijchiua, takauani, tamatemouaj, tamatis, tameuj, tamimilmeuaj -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">38</feat><!-- nikmatia, Tikihtowaya, kitaliayah, Tikmatiya, ijkaya, itsmolinia, kikixtiliayah, kikuayaj, kikwayah, kikwiah -->
+    <feat name="Aspect" value="Perf" upos="VERB">125</feat><!-- onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej -->
     <feat name="Aspect" value="Prog" upos="AUX,VERB">46</feat><!-- nikixmattok, nikmattok, chijchiujtokej, xochiyojtok, kinetechojtok, nikitstok, tikixmattok, timonohnotstokeh, Ijkatok, chichiujtok -->
-    <feat name="Case" value="Abs" upos="NOUN,PRON">758</feat><!-- taman, kajfentaj, kuoujtaj, kuouit, pajti, xiuit, pahti, milaj, tomakilit, at -->
+    <feat name="Case" value="Abs" upos="NOUN,PRON">756</feat><!-- taman, kajfentaj, kuoujtaj, kuouit, pajti, xiuit, pahti, milaj, tomakilit, at -->
     <feat name="Degree" value="Dim" upos="ADJ,ADV,NOUN,NUM,PRON">135</feat><!-- kwaltsin, tsikitsitsin, iteyotsin, ixochiotsin, nanakatsin, kualtsin, ichantsin, ikowyotsin, ixiwyotsin, tehwatsin -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,PROPN">94</feat><!-- células, microondas, Maria, cimarrón, la, moléculas, nanotecnologías, niMaria, electromagnética, manila -->
     <feat name="Gender" value="Fem,Masc" upos="ADJ">9</feat><!-- Ambientales, Austral, Espacial, Norte, celulares, corriente, fuerte, nucleares, útiles -->
     <feat name="Gender" value="Masc" upos="ADJ,NOUN,PROPN">214</feat><!-- Miguel, marzo, abril, compadrito, mayo, agosto, junio, átomos, enero, febrero -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">6</feat><!-- eski, Niknekiskia, eskia, timotajtanijtoskiyaj, tiyetoskiyaj -->
     <feat name="Mood" value="Imp" upos="VERB">7</feat><!-- xtechtapowi, 'nechili, 'technohnotsa, xinechtapowi, xnechili, xnechtapowi -->
+    <feat name="Mood" value="Ind" upos="VERB">1591</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa -->
     <feat name="Mood" value="Opt" upos="AUX,VERB">8</feat><!-- tikixnextikan, kiixmatikan, kipepechokan, mochiuakan, tikihtokan, tikinixmatikan, yetokan -->
-    <feat name="Movement" value="And" upos="VERB">12</feat><!-- Chikawayati, kichkuati, kikuitij, kikwitih, motamiti, nanmontiotaki, nimoskalti, oksitiw, onkati, tamiti -->
+    <feat name="Mood" value="Prp" upos="VERB">12</feat><!-- Chikawayati, kichkuati, kikuitij, kikwitih, motamiti, nanmontiotaki, nimoskalti, oksitiw, onkati, tamiti -->
     <feat name="Movement" value="Ven" upos="VERB">7</feat><!-- Kiwalkwih, ualeua, kiualkui, kwalkwiah, mokuapiki -->
     <feat name="NounType" value="Relat" upos="NOUN">251</feat><!-- itech, ika, iuan, tsintan, kopa, ijtik, tenoj, iwan, iijtik, ixko -->
     <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,PRON">193</feat><!-- tsikitsitsin, sitalimej, oksekin, tehwan, átomos, rayos, teposmej, células, okseki, microondas -->
@@ -53,9 +55,9 @@
     <feat name="Number[obj]" value="Plur" upos="VERB">26</feat><!-- 'technohnotsa, techpaleuij, xtechtapowi, kiki, kinamaka, kinchijchiua, kininmaka, kininpoxtalilia, kinitas, kinixmatis -->
     <feat name="Number[obj]" value="Sing" upos="VERB">797</feat><!-- kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj -->
     <feat name="Number[psor]" value="Plur" upos="NOUN">20</feat><!-- totaltikpak, tojomiuan, totalmanik, Tosemanauak, Totakayo, intokayuan, toatsin, todios, togalaxia, toixtololouan -->
-    <feat name="Number[psor]" value="Sing" upos="NOUN">437</feat><!-- itech, ika, iteyo, itakka, iuan, ichokilo, iteyotsin, ixochio, ixochiyo, itakilo -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN">439</feat><!-- itech, ika, iteyo, itakka, iuan, ichokilo, iteyotsin, ixochio, ixochiyo, itakilo -->
     <feat name="Number[subj]" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">360</feat><!-- kitokaj, kitokaytiaj, kiluiaj, kikwah, kijtouaj, kiliah, kikwih, kichiwah, kikuaj, tikiliah -->
-    <feat name="Number[subj]" value="Sing" upos="ADJ,ADV,AUX,NOUN,PROPN,VERB">1620</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, sesek, mochiwa, ixua -->
+    <feat name="Number[subj]" value="Sing" upos="ADJ,ADV,AUX,NOUN,PROPN,VERB">1619</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, sesek, mochiwa, ixua -->
     <feat name="Person" value="1" upos="PRON">75</feat><!-- neh, tehwan, tejuan, ne, nehwa, nejua, teh -->
     <feat name="Person" value="2" upos="PRON">7</feat><!-- tehwatsin, teh, namehwan, tejua -->
     <feat name="Person" value="3" upos="PRON">42</feat><!-- yehwa, yeh, yejua, Yehua, yej -->
@@ -63,20 +65,21 @@
     <feat name="Person[obj]" value="2" upos="VERB">4</feat><!-- timitstahtaniskeh, nimitsilia, nimitstahtania -->
     <feat name="Person[obj]" value="3" upos="VERB">843</feat><!-- kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj -->
     <feat name="Person[psor]" value="1" upos="NOUN">23</feat><!-- notokay, totaltikpak, tojomiuan, totalmanik, Tosemanauak, Totakayo, notatahwan, toatsin, todios, togalaxia -->
-    <feat name="Person[psor]" value="2" upos="NOUN">3</feat><!-- motokay -->
-    <feat name="Person[psor]" value="3" upos="NOUN">432</feat><!-- itech, ika, iteyo, itakka, iuan, ichokilo, iteyotsin, ixochio, ixochiyo, itakilo -->
+    <feat name="Person[psor]" value="2" upos="NOUN">4</feat><!-- motokay, moaltepe -->
+    <feat name="Person[psor]" value="3" upos="NOUN">433</feat><!-- itech, ika, iteyo, itakka, iuan, ichokilo, iteyotsin, ixochio, ixochiyo, itakilo -->
     <feat name="Person[subj]" value="1" upos="AUX,NOUN,PRON,PROPN,VERB">183</feat><!-- nimonotsa, nikmati, nikixmattok, niwalew, nikita, nikmattok, tikiliah, nikmatia, tikitaj, niwalewa -->
     <feat name="Person[subj]" value="2" upos="VERB">43</feat><!-- tikihtowa, tikixmati, timonotsa, 'technohnotsa, Tikihtowaya, tikixmattok, tikmatis, tiwalewa, xtechtapowi, 'nechili -->
-    <feat name="Person[subj]" value="3" upos="ADJ,ADV,AUX,NOUN,VERB">1754</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, sesek, mochiwa, ixua -->
+    <feat name="Person[subj]" value="3" upos="ADJ,ADV,AUX,NOUN,VERB">1753</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, sesek, mochiwa, ixua -->
     <feat name="PronType" value="Prs" upos="PRON">124</feat><!-- neh, yehwa, tehwan, yeh, yejua, teh, tehwatsin, tejuan, Yehua, ne -->
     <feat name="PronType" value="Rel" upos="ADV">63</feat><!-- kampa, kanpa -->
     <feat name="Subcat" value="Intr" upos="AUX,VERB">481</feat><!-- onkak, xochiyoua, kualtia, ixua, kwaltia, moskaltia, taki, kisa, oksi, peua -->
-    <feat name="Subcat" value="Tran" upos="VERB">1138</feat><!-- mochiua, kikua, monamaka, kitoka, mochiwa, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa -->
+    <feat name="Subcat" value="Tran" upos="VERB">1137</feat><!-- mochiua, kikua, monamaka, kitoka, mochiwa, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">78</feat><!-- uelis, eski, tayis, kisas, onkas, kikuas, kinemilis, tikmatis, timitstahtaniskeh, Nimitspalehuis -->
     <feat name="Tense" value="Past" upos="VERB">127</feat><!-- onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej -->
     <feat name="Tense" value="Pqp" upos="VERB">1</feat><!-- kipijpixka -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">1374</feat><!-- mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">1373</feat><!-- mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj -->
     <feat name="Typo" value="Yes" upos="ADV,NUM,VERB">5</feat><!-- Nika, 1, Nochiua, kiki -->
+    <feat name="VerbForm" value="Fin" upos="VERB">1619</feat><!-- mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="35">
@@ -85,7 +88,7 @@
     <dep name="advcl">267</dep>
     <dep name="advmod">1246</dep>
     <dep name="amod">40</dep>
-    <dep name="appos">107</dep>
+    <dep name="appos">72</dep>
     <dep name="aux">95</dep>
     <dep name="case">139</dep>
     <dep name="cc">458</dep>
@@ -107,7 +110,7 @@
     <dep name="nsubj">962</dep>
     <dep name="nummod">66</dep>
     <dep name="obj">325</dep>
-    <dep name="obl">391</dep>
+    <dep name="obl">426</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">349</dep>
     <dep name="punct">2068</dep>
