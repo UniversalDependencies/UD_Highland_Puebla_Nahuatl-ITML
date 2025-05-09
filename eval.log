@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Highland_Puebla_Nahuatl-ITML:
-commit 8ec9a3ce697e7de854cf4ffcc754b54b8cc3bee2
+commit c8fbf49ca9289d8e4c3218d4a384a272fdce417c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 12:29:35 2024 +0200
+Date:   Mon Nov 11 15:37:46 2024 +0100
 Size: counted 10088 of 10088 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.62269319732524.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,23 +20,36 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       1398
-Udapi: found 1398 bugs.
+               TOTAL       1309
+Udapi: found 1309 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10088 words.
-Genres: found 3 out of 17 known.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang azz --max-err=10 UD_Highland_Puebla_Nahuatl-ITML/azz_itml-ud-test.conllu
-[Line 2233 Sent kiteixmatiltijtok-tamachilis:114 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:se:det --> 6:ok:dep)
-Warnings: 1
-*** PASSED ***
-Validity: 1
+[Line 406 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a61 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'amo keman' does not have the 'ExtPos' feature
+[Line 421 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a66 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'amo keman' does not have the 'ExtPos' feature
+[Line 446 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a77 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'amo keman' does not have the 'ExtPos' feature
+[Line 508 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a105 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression 'ya que' does not have the 'ExtPos' feature
+[Line 686 Sent Chilc_Botan_RMM302_tsonsasa-Tiliaceae_2011-07-14-d_ed-2020-01-02_Trad-ADA_FORM.eaf:a29:2 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'mas que' does not have the 'ExtPos' feature
+[Line 939 Sent kiteixmatiltijtok-tamachilis:4 Node 16]: [L3 Warning fixed-without-extpos] Fixed expression 'sayoj ke' does not have the 'ExtPos' feature
+[Line 2233 Sent kiteixmatiltijtok-tamachilis:114 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:se:det --> 6:ok:dep)
+[Line 2370 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:5 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
+[Line 2441 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:13 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
+[Line 2668 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:35 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
+[Line 3101 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:71 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Syntax errors: 1
+Warnings: 56
+*** FAILED *** with 1 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.334601691188342) = 0.0857953054329081
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.37382677581732) * (availability=1) * (validity=1) = 0.37382677581732
-STARS = 2
-UD_Highland_Puebla_Nahuatl-ITML	0.37382677581732	2
+(TOTAL score=0.373072628004348) * (availability=1) * (validity=0.01) = 0.00373072628004348
+STARS = 0
+UD_Highland_Puebla_Nahuatl-ITML	0.00373072628004348	0
