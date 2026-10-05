@@ -106,11 +106,11 @@
     <dep name="goeswith">4</dep>
     <dep name="iobj">12</dep>
     <dep name="mark">253</dep>
-    <dep name="nmod">283</dep>
+    <dep name="nmod">285</dep>
     <dep name="nsubj">962</dep>
     <dep name="nummod">66</dep>
     <dep name="obj">325</dep>
-    <dep name="obl">426</dep>
+    <dep name="obl">424</dep>
     <dep name="orphan">3</dep>
     <dep name="parataxis">349</dep>
     <dep name="punct">2068</dep>
