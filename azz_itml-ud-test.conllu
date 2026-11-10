@@ -741,7 +741,7 @@
 6	,	,	PUNCT	_	_	9	punct	9:punct	NormalizedForm=,
 7	cerca	cerca	ADV	_	_	9	advmod	9:advmod	NormalizedForm=cerca
 8	de	de	ADP	_	_	9	case	9:case	NormalizedForm=de
-9	San	San	PROPN	_	_	5	obl	5:obl	NormalizedForm=San
+9	San	San	PROPN	_	_	5	nmod	5:nmod	NormalizedForm=San
 10	Miguel	Miguel	PROPN	_	Gender=Masc	9	flat	9:flat	NormalizedForm=Migwel|SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
@@ -1517,7 +1517,7 @@
 1	Uelis	hueli	AUX	_	Tense=Fut	2	aux	2:aux	NormalizedForm=Welis
 2	moajsis	ajsi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin	0	root	0:root	NormalizedForm=moahsis|Reflexive[obj]=Yes
 3	nemilis	nemilis	NOUN	_	Case=Abs	2	nsubj	2:nsubj	NormalizedForm=nemilis
-4	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	3:obl	NormalizedForm=itech
+4	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	nmod	3:nmod	NormalizedForm=itech
 5	oksekin	okse	DET	_	Number=Plur	6	det	6:det	NormalizedForm=oksekin
 6	taltikpakmej	taltikpak	NOUN	_	Number=Plur	4	nmod	4:nmod	NormalizedForm=taltikpakmeh
 7	semi	semi	ADV	_	_	8	advmod	8:advmod	NormalizedForm=semi
@@ -5759,7 +5759,7 @@
 1	Mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Mochiwa|Reflexive[obj]=Yes
 2-3	kuoujtajpa	_	_	_	_	_	_	_	NormalizedForm=kwoutahpa
 2	kuoujtaj	koutaj	NOUN	_	_	3	nmod	3:nmod	NormalizedForm=kwoutah
-3	pa	pan	NOUN	_	NounType=Relat	1	obl	1:obl	NormalizedForm=pa|Incorporated=Pan
+3	pa	pan	NOUN	_	NounType=Relat	1	obl	1:obl	Incorporated=Pan|NormalizedForm=pa
 4	uan	huan	CCONJ	_	_	7	cc	7:cc	NormalizedForm=wan
 5	no	no	ADV	_	_	7	advmod	7:advmod	NormalizedForm=no
 6	kampa	kampa	ADV	_	PronType=Rel	7	advmod	7:advmod	NormalizedForm=kampa
@@ -9525,7 +9525,7 @@
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6-7	xolalpan	_	_	_	_	_	_	_	NormalizedForm=xolalpan|SpaceAfter=No
 6	xolal	xolal	NOUN	_	_	7	nmod	7:nmod	NormalizedForm=xolal
-7	pan	pan	NOUN	_	NounType=Relat	4	obl	4:obl	NormalizedForm=pan|Incorporated=Pan
+7	pan	pan	NOUN	_	NounType=Relat	4	obl	4:obl	Incorporated=Pan|NormalizedForm=pan
 8	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
 # sent_id = Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:1511:2
@@ -12410,7 +12410,7 @@
 3	ne	ne	ADV	_	_	1	advmod	1:advmod	NormalizedForm=ne
 4-5	xolalpan	_	_	_	_	_	_	_	NormalizedForm=xolalpan
 4	xolal	xolal	NOUN	_	_	5	nmod	5:nmod	NormalizedForm=xolal
-5	pan	pan	NOUN	_	NounType=Relat	3	obl	3:obl	NormalizedForm=pan|Incorporated=Pan
+5	pan	pan	NOUN	_	NounType=Relat	3	obl	3:obl	Incorporated=Pan|NormalizedForm=pan
 6	de	de	ADP	_	_	7	case	7:case	NormalizedForm=de
 7	San	San	PROPN	_	_	3	appos	3:appos	NormalizedForm=San
 8	Miguel	Miguel	PROPN	_	Gender=Masc	7	flat	7:flat	NormalizedForm=Migwel
