@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Highland_Puebla_Nahuatl-ITML:
-commit 4dd81fd9f0516bbc77007f411ed3730792b692da
+commit ecf2939d8b4b7b2efc492f797ae46f37c57473a2
+Merge: d33b3f6 e3f05ea
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 19:40:35 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'azz_itml'
 Language code (from CoNLL-U file name) = 'azz'
@@ -41,9 +41,7 @@ Genres: found 3 out of 18 known.
 [Line 446 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a77]: [L3 WARNING fixed-without-extpos] Fixed expression 'amo keman' does not have the 'ExtPos' feature
 [Line 508 Sent Chilc_Botan_RMM302-MSO325_mowih-Acanthaceae_2011-07-27-j_ed-2018-11-25_Trad-ADA_FORM.eaf:a105]: [L3 WARNING fixed-without-extpos] Fixed expression 'ya que' does not have the 'ExtPos' feature
 [Line 686 Sent Chilc_Botan_RMM302_tsonsasa-Tiliaceae_2011-07-14-d_ed-2020-01-02_Trad-ADA_FORM.eaf:a29:2]: [L3 WARNING fixed-without-extpos] Fixed expression 'mas que' does not have the 'ExtPos' feature
-[Line 744 Sent Chilc_Botan_RMM302_tsonsasa-Tiliaceae_2011-07-14-d_ed-2020-01-02_Trad-ADA_FORM.eaf:a39]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'Chilkwowtah') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 939 Sent kiteixmatiltijtok-tamachilis:4]: [L3 WARNING fixed-without-extpos] Fixed expression 'sayoj ke' does not have the 'ExtPos' feature
-[Line 1520 Sent kiteixmatiltijtok-tamachilis:47]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'nemilis') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 2233 Sent kiteixmatiltijtok-tamachilis:114]: [L3 SYNTAX leaf-det] 'det' not expected to have children (7:se:det --> 6:ok:dep)
 [Line 2370 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:5]: [L3 WARNING fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
 [Line 2441 Sent Axolotl:Una_tortillita_nomás_-_Se_taxkaltsin_saj:13]: [L3 WARNING fixed-without-extpos] Fixed expression 'por in' does not have the 'ExtPos' feature
@@ -52,8 +50,8 @@ Genres: found 3 out of 18 known.
 ...suppressing further messages regarding WARNING/SYNTAX
 [Line 13214 Sent Tzina_Botan_JVC313-AND308_tepeetomat-Moraceae_2011-07-29-e_ed-2018-11-13_Trad-HSO_FORM.eaf:a90]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 8] ('Yon', 'kowtatil') under the predicate 'kikwih'.
 Warnings: 1247
-SYNTAX errors: 4
-*** FAILED *** with 4 errors
+SYNTAX errors: 2
+*** FAILED *** with 2 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
